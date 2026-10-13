@@ -1,0 +1,539 @@
+{
+  "date": "2026-10-13",
+  "fixture": {
+    "members": 20,
+    "tasks": 24,
+    "rooms": 10
+  },
+  "measurements": [
+    {
+      "cardCount": 11,
+      "cardsOutside": 0,
+      "collisions": [],
+      "deck": {
+        "client": 190,
+        "height": 192,
+        "scroll": 190,
+        "width": 664,
+        "x": 248,
+        "y": 650
+      },
+      "dock": {
+        "client": 785,
+        "height": 787,
+        "scroll": 785,
+        "width": 232,
+        "x": 1192,
+        "y": 95
+      },
+      "duplicateTicket": 0,
+      "horizontalOverflow": 0,
+      "pageHeight": 900,
+      "people": {
+        "client": 210,
+        "height": 212.15625,
+        "scroll": 210,
+        "width": 224,
+        "x": 932,
+        "y": 181
+      },
+      "peopleList": {
+        "client": 148,
+        "height": 148.15625,
+        "scroll": 1236,
+        "width": 198,
+        "x": 945,
+        "y": 232
+      },
+      "table": {
+        "client": 245,
+        "height": 245,
+        "scroll": 329,
+        "width": 616,
+        "x": 272,
+        "y": 279
+      },
+      "taskList": {
+        "client": 247,
+        "height": 246.84375,
+        "scroll": 3240,
+        "width": 198,
+        "x": 945,
+        "y": 512.15625
+      },
+      "tasks": {
+        "client": 435,
+        "height": 436.84375,
+        "scroll": 435,
+        "width": 224,
+        "x": 932,
+        "y": 407.15625
+      },
+      "viewport": [
+        1440,
+        900
+      ],
+      "cardsBelowTable": true,
+      "cardsVisible": true,
+      "deckY": 650,
+      "replayed": false,
+      "tableViewportBottom": 638
+    },
+    {
+      "cardCount": 11,
+      "cardsOutside": 0,
+      "collisions": [],
+      "deck": {
+        "client": 163,
+        "height": 165,
+        "scroll": 163,
+        "width": 504,
+        "x": 248,
+        "y": 478
+      },
+      "dock": {
+        "client": 605,
+        "height": 607,
+        "scroll": 605,
+        "width": 232,
+        "x": 1032,
+        "y": 95
+      },
+      "duplicateTicket": 0,
+      "horizontalOverflow": 0,
+      "pageHeight": 720,
+      "people": {
+        "client": 153,
+        "height": 154.546875,
+        "scroll": 153,
+        "width": 224,
+        "x": 772,
+        "y": 162
+      },
+      "peopleList": {
+        "client": 91,
+        "height": 90.546875,
+        "scroll": 1236,
+        "width": 198,
+        "x": 785,
+        "y": 213
+      },
+      "table": {
+        "client": 245,
+        "height": 245,
+        "scroll": 328,
+        "width": 446,
+        "x": 282,
+        "y": 260
+      },
+      "taskList": {
+        "client": 124,
+        "height": 124.453125,
+        "scroll": 3288,
+        "width": 198,
+        "x": 785,
+        "y": 435.546875
+      },
+      "tasks": {
+        "client": 312,
+        "height": 314.453125,
+        "scroll": 312,
+        "width": 224,
+        "x": 772,
+        "y": 330.546875
+      },
+      "viewport": [
+        1280,
+        720
+      ],
+      "cardsBelowTable": true,
+      "cardsVisible": true,
+      "deckY": 478,
+      "replayed": false,
+      "tableViewportBottom": 466
+    },
+    {
+      "cardCount": 11,
+      "cardsOutside": 0,
+      "collisions": [],
+      "deck": {
+        "client": 190,
+        "height": 192,
+        "scroll": 190,
+        "width": 742,
+        "x": 278,
+        "y": 650
+      },
+      "dock": {
+        "client": 785,
+        "height": 787,
+        "scroll": 785,
+        "width": 252,
+        "x": 1332,
+        "y": 95
+      },
+      "duplicateTicket": 0,
+      "horizontalOverflow": 0,
+      "pageHeight": 900,
+      "people": {
+        "client": 210,
+        "height": 212.15625,
+        "scroll": 210,
+        "width": 250,
+        "x": 1046,
+        "y": 181
+      },
+      "peopleList": {
+        "client": 148,
+        "height": 148.15625,
+        "scroll": 1236,
+        "width": 224,
+        "x": 1059,
+        "y": 232
+      },
+      "table": {
+        "client": 245,
+        "height": 245,
+        "scroll": 329,
+        "width": 694,
+        "x": 302,
+        "y": 279
+      },
+      "taskList": {
+        "client": 247,
+        "height": 246.84375,
+        "scroll": 3240,
+        "width": 224,
+        "x": 1059,
+        "y": 512.15625
+      },
+      "tasks": {
+        "client": 435,
+        "height": 436.84375,
+        "scroll": 435,
+        "width": 250,
+        "x": 1046,
+        "y": 407.15625
+      },
+      "viewport": [
+        1600,
+        900
+      ],
+      "cardsBelowTable": true,
+      "cardsVisible": true,
+      "deckY": 650,
+      "replayed": false,
+      "tableViewportBottom": 638
+    },
+    {
+      "cardCount": 11,
+      "cardsOutside": 0,
+      "collisions": [],
+      "deck": {
+        "client": 163,
+        "height": 165,
+        "scroll": 163,
+        "width": 512,
+        "x": 248,
+        "y": 526
+      },
+      "dock": null,
+      "duplicateTicket": 0,
+      "horizontalOverflow": 0,
+      "pageHeight": 768,
+      "people": {
+        "client": 168,
+        "height": 169.90625,
+        "scroll": 168,
+        "width": 224,
+        "x": 780,
+        "y": 162
+      },
+      "peopleList": {
+        "client": 106,
+        "height": 105.90625,
+        "scroll": 1236,
+        "width": 198,
+        "x": 793,
+        "y": 213
+      },
+      "table": {
+        "client": 245,
+        "height": 245,
+        "scroll": 328,
+        "width": 454,
+        "x": 282,
+        "y": 260
+      },
+      "taskList": {
+        "client": 157,
+        "height": 157.09375,
+        "scroll": 3288,
+        "width": 198,
+        "x": 793,
+        "y": 450.90625
+      },
+      "tasks": {
+        "client": 345,
+        "height": 347.09375,
+        "scroll": 345,
+        "width": 224,
+        "x": 780,
+        "y": 345.90625
+      },
+      "viewport": [
+        1024,
+        768
+      ],
+      "cardsBelowTable": true,
+      "cardsVisible": true,
+      "deckY": 526,
+      "replayed": false,
+      "tableViewportBottom": 514
+    },
+    {
+      "cardCount": 11,
+      "cardsOutside": 0,
+      "collisions": [],
+      "deck": {
+        "client": 293,
+        "height": 294.890625,
+        "scroll": 293,
+        "width": 729,
+        "x": 12,
+        "y": 867.6875
+      },
+      "dock": null,
+      "duplicateTicket": 0,
+      "horizontalOverflow": -15,
+      "pageHeight": 1745,
+      "people": {
+        "client": 0,
+        "height": 0,
+        "scroll": 0,
+        "width": 0,
+        "x": 0,
+        "y": 0
+      },
+      "peopleList": {
+        "client": 0,
+        "height": 0,
+        "scroll": 0,
+        "width": 0,
+        "x": 0,
+        "y": 0
+      },
+      "table": {
+        "client": 350,
+        "height": 350,
+        "scroll": 450,
+        "width": 665,
+        "x": 44,
+        "y": 417.6875
+      },
+      "taskList": {
+        "client": 0,
+        "height": 0,
+        "scroll": 0,
+        "width": 0,
+        "x": 0,
+        "y": 0
+      },
+      "tasks": {
+        "client": 0,
+        "height": 0,
+        "scroll": 0,
+        "width": 0,
+        "x": 0,
+        "y": 0
+      },
+      "viewport": [
+        768,
+        1024
+      ]
+    },
+    {
+      "cardCount": 11,
+      "cardsOutside": 0,
+      "collisions": [],
+      "deck": {
+        "client": 287,
+        "height": 288.890625,
+        "scroll": 287,
+        "width": 351,
+        "x": 12,
+        "y": 945.6875
+      },
+      "dock": null,
+      "duplicateTicket": 0,
+      "horizontalOverflow": -15,
+      "pageHeight": 1810,
+      "people": {
+        "client": 0,
+        "height": 0,
+        "scroll": 0,
+        "width": 0,
+        "x": 0,
+        "y": 0
+      },
+      "peopleList": {
+        "client": 0,
+        "height": 0,
+        "scroll": 0,
+        "width": 0,
+        "x": 0,
+        "y": 0
+      },
+      "table": {
+        "client": 420,
+        "height": 420,
+        "scroll": 526,
+        "width": 303,
+        "x": 36,
+        "y": 421.6875
+      },
+      "taskList": {
+        "client": 0,
+        "height": 0,
+        "scroll": 0,
+        "width": 0,
+        "x": 0,
+        "y": 0
+      },
+      "tasks": {
+        "client": 0,
+        "height": 0,
+        "scroll": 0,
+        "width": 0,
+        "x": 0,
+        "y": 0
+      },
+      "viewport": [
+        390,
+        844
+      ]
+    },
+    {
+      "cardCount": 11,
+      "cardsOutside": 0,
+      "collisions": [],
+      "deck": {
+        "client": 362,
+        "height": 363.890625,
+        "scroll": 362,
+        "width": 281,
+        "x": 12,
+        "y": 1001.375
+      },
+      "dock": null,
+      "duplicateTicket": 0,
+      "horizontalOverflow": -15,
+      "pageHeight": 1940,
+      "people": {
+        "client": 0,
+        "height": 0,
+        "scroll": 0,
+        "width": 0,
+        "x": 0,
+        "y": 0
+      },
+      "peopleList": {
+        "client": 0,
+        "height": 0,
+        "scroll": 0,
+        "width": 0,
+        "x": 0,
+        "y": 0
+      },
+      "table": {
+        "client": 420,
+        "height": 420,
+        "scroll": 526,
+        "width": 249,
+        "x": 28,
+        "y": 477.375
+      },
+      "taskList": {
+        "client": 0,
+        "height": 0,
+        "scroll": 0,
+        "width": 0,
+        "x": 0,
+        "y": 0
+      },
+      "tasks": {
+        "client": 0,
+        "height": 0,
+        "scroll": 0,
+        "width": 0,
+        "x": 0,
+        "y": 0
+      },
+      "viewport": [
+        320,
+        568
+      ]
+    },
+    {
+      "cardCount": 11,
+      "cardsOutside": 0,
+      "collisions": [],
+      "deck": {
+        "client": 287,
+        "height": 288.890625,
+        "scroll": 287,
+        "width": 628,
+        "x": 12,
+        "y": 867.6875
+      },
+      "dock": null,
+      "duplicateTicket": 0,
+      "horizontalOverflow": -15,
+      "pageHeight": 1732,
+      "people": {
+        "client": 0,
+        "height": 0,
+        "scroll": 0,
+        "width": 0,
+        "x": 0,
+        "y": 0
+      },
+      "peopleList": {
+        "client": 0,
+        "height": 0,
+        "scroll": 0,
+        "width": 0,
+        "x": 0,
+        "y": 0
+      },
+      "table": {
+        "client": 350,
+        "height": 350,
+        "scroll": 450,
+        "width": 580,
+        "x": 36,
+        "y": 417.6875
+      },
+      "taskList": {
+        "client": 0,
+        "height": 0,
+        "scroll": 0,
+        "width": 0,
+        "x": 0,
+        "y": 0
+      },
+      "tasks": {
+        "client": 0,
+        "height": 0,
+        "scroll": 0,
+        "width": 0,
+        "x": 0,
+        "y": 0
+      },
+      "viewport": [
+        667,
+        375
+      ]
+    }
+  ]
+}

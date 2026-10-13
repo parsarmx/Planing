@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/ConsensusCelebration.tsx","./src/PublicRooms.tsx","./src/RoomsDock.tsx","./src/VisibilityPicker.tsx","./src/api.ts","./src/avatars.tsx","./src/consensus.ts","./src/demo.ts","./src/main.tsx","./src/roomConnection.ts","./src/themes.tsx","./src/types.ts","./vite.config.ts"],"version":"5.9.3"}

@@ -1,0 +1,9315 @@
+{
+  "date": "2026-10-13",
+  "engine": "Codex IAB Chromium",
+  "sizes": [
+    {
+      "width": 320,
+      "height": 568
+    },
+    {
+      "width": 360,
+      "height": 640
+    },
+    {
+      "width": 375,
+      "height": 667
+    },
+    {
+      "width": 390,
+      "height": 844
+    },
+    {
+      "width": 414,
+      "height": 896
+    },
+    {
+      "width": 430,
+      "height": 932
+    },
+    {
+      "width": 667,
+      "height": 375
+    },
+    {
+      "width": 844,
+      "height": 390
+    },
+    {
+      "width": 768,
+      "height": 1024
+    }
+  ],
+  "breakpoints": [
+    {
+      "width": 359,
+      "height": 740
+    },
+    {
+      "width": 599,
+      "height": 800
+    },
+    {
+      "width": 600,
+      "height": 800
+    },
+    {
+      "width": 760,
+      "height": 900
+    },
+    {
+      "width": 761,
+      "height": 900
+    },
+    {
+      "width": 1023,
+      "height": 768
+    }
+  ],
+  "desktop": [
+    {
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "width": 1440,
+      "height": 900
+    }
+  ],
+  "measurements": [
+    {
+      "scenario": "before-room",
+      "h": 568,
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazirmatn, sans-serif",
+      "smallInputs": [],
+      "smallTargets": [
+        {
+          "h": 36,
+          "label": "صفحه اصلی",
+          "w": 117
+        },
+        {
+          "h": 34,
+          "label": "ورود / ثبت‌نام",
+          "w": 100
+        },
+        {
+          "h": 14,
+          "label": "ساخت اتاق واقعی",
+          "w": 95
+        },
+        {
+          "h": 28,
+          "label": "بازگشت به جلسه‌ها",
+          "w": 28
+        },
+        {
+          "h": 31,
+          "label": "دعوت اعضا",
+          "w": 92
+        },
+        {
+          "h": 29,
+          "label": "خروجی جلسه",
+          "w": 30
+        },
+        {
+          "h": 29,
+          "label": "تغییر رنگ تم اتاق",
+          "w": 30
+        },
+        {
+          "h": 29,
+          "label": "تنظیمات جلسه",
+          "w": 30
+        },
+        {
+          "h": 36,
+          "label": "اعضا (۶)",
+          "w": 134
+        },
+        {
+          "h": 36,
+          "label": "تسک‌ها (۴)",
+          "w": 134
+        },
+        {
+          "h": 23,
+          "label": "مشاهده توضیحات",
+          "w": 96
+        },
+        {
+          "h": 35,
+          "label": "رو کردن کارت‌ها",
+          "w": 125
+        },
+        {
+          "h": 65,
+          "label": "رأی 0",
+          "w": 43
+        },
+        {
+          "h": 65,
+          "label": "رأی 1",
+          "w": 43
+        }
+      ],
+      "smallTargetsCount": 25,
+      "w": 320
+    },
+    {
+      "scenario": "before-room",
+      "h": 640,
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazirmatn, sans-serif",
+      "smallInputs": [],
+      "smallTargets": [
+        {
+          "h": 36,
+          "label": "صفحه اصلی",
+          "w": 117
+        },
+        {
+          "h": 34,
+          "label": "ورود / ثبت‌نام",
+          "w": 100
+        },
+        {
+          "h": 14,
+          "label": "ساخت اتاق واقعی",
+          "w": 95
+        },
+        {
+          "h": 28,
+          "label": "بازگشت به جلسه‌ها",
+          "w": 28
+        },
+        {
+          "h": 31,
+          "label": "دعوت اعضا",
+          "w": 92
+        },
+        {
+          "h": 29,
+          "label": "خروجی جلسه",
+          "w": 30
+        },
+        {
+          "h": 29,
+          "label": "تغییر رنگ تم اتاق",
+          "w": 30
+        },
+        {
+          "h": 29,
+          "label": "تنظیمات جلسه",
+          "w": 30
+        },
+        {
+          "h": 36,
+          "label": "اعضا (۶)",
+          "w": 154
+        },
+        {
+          "h": 36,
+          "label": "تسک‌ها (۴)",
+          "w": 154
+        },
+        {
+          "h": 23,
+          "label": "مشاهده توضیحات",
+          "w": 96
+        },
+        {
+          "h": 35,
+          "label": "رو کردن کارت‌ها",
+          "w": 125
+        },
+        {
+          "h": 65,
+          "label": "رأی 0",
+          "w": 43
+        },
+        {
+          "h": 65,
+          "label": "رأی 1",
+          "w": 43
+        }
+      ],
+      "smallTargetsCount": 25,
+      "w": 360
+    },
+    {
+      "scenario": "before-room",
+      "h": 667,
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazirmatn, sans-serif",
+      "smallInputs": [],
+      "smallTargets": [
+        {
+          "h": 36,
+          "label": "صفحه اصلی",
+          "w": 117
+        },
+        {
+          "h": 34,
+          "label": "ورود / ثبت‌نام",
+          "w": 100
+        },
+        {
+          "h": 14,
+          "label": "ساخت اتاق واقعی",
+          "w": 95
+        },
+        {
+          "h": 28,
+          "label": "بازگشت به جلسه‌ها",
+          "w": 28
+        },
+        {
+          "h": 31,
+          "label": "دعوت اعضا",
+          "w": 92
+        },
+        {
+          "h": 29,
+          "label": "خروجی جلسه",
+          "w": 30
+        },
+        {
+          "h": 29,
+          "label": "تغییر رنگ تم اتاق",
+          "w": 30
+        },
+        {
+          "h": 29,
+          "label": "تنظیمات جلسه",
+          "w": 30
+        },
+        {
+          "h": 36,
+          "label": "اعضا (۶)",
+          "w": 161
+        },
+        {
+          "h": 36,
+          "label": "تسک‌ها (۴)",
+          "w": 161
+        },
+        {
+          "h": 23,
+          "label": "مشاهده توضیحات",
+          "w": 96
+        },
+        {
+          "h": 35,
+          "label": "رو کردن کارت‌ها",
+          "w": 125
+        },
+        {
+          "h": 65,
+          "label": "رأی 0",
+          "w": 43
+        },
+        {
+          "h": 65,
+          "label": "رأی 1",
+          "w": 43
+        }
+      ],
+      "smallTargetsCount": 25,
+      "w": 375
+    },
+    {
+      "scenario": "before-room",
+      "h": 844,
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazirmatn, sans-serif",
+      "smallInputs": [],
+      "smallTargets": [
+        {
+          "h": 36,
+          "label": "صفحه اصلی",
+          "w": 117
+        },
+        {
+          "h": 34,
+          "label": "ورود / ثبت‌نام",
+          "w": 100
+        },
+        {
+          "h": 14,
+          "label": "ساخت اتاق واقعی",
+          "w": 95
+        },
+        {
+          "h": 28,
+          "label": "بازگشت به جلسه‌ها",
+          "w": 28
+        },
+        {
+          "h": 31,
+          "label": "دعوت اعضا",
+          "w": 92
+        },
+        {
+          "h": 29,
+          "label": "خروجی جلسه",
+          "w": 30
+        },
+        {
+          "h": 29,
+          "label": "تغییر رنگ تم اتاق",
+          "w": 30
+        },
+        {
+          "h": 29,
+          "label": "تنظیمات جلسه",
+          "w": 30
+        },
+        {
+          "h": 36,
+          "label": "اعضا (۶)",
+          "w": 169
+        },
+        {
+          "h": 36,
+          "label": "تسک‌ها (۴)",
+          "w": 169
+        },
+        {
+          "h": 23,
+          "label": "مشاهده توضیحات",
+          "w": 96
+        },
+        {
+          "h": 35,
+          "label": "رو کردن کارت‌ها",
+          "w": 125
+        },
+        {
+          "h": 65,
+          "label": "رأی 0",
+          "w": 43
+        },
+        {
+          "h": 65,
+          "label": "رأی 1",
+          "w": 43
+        }
+      ],
+      "smallTargetsCount": 25,
+      "w": 390
+    },
+    {
+      "scenario": "before-room",
+      "h": 896,
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazirmatn, sans-serif",
+      "smallInputs": [],
+      "smallTargets": [
+        {
+          "h": 36,
+          "label": "صفحه اصلی",
+          "w": 117
+        },
+        {
+          "h": 34,
+          "label": "ورود / ثبت‌نام",
+          "w": 100
+        },
+        {
+          "h": 14,
+          "label": "ساخت اتاق واقعی",
+          "w": 95
+        },
+        {
+          "h": 28,
+          "label": "بازگشت به جلسه‌ها",
+          "w": 28
+        },
+        {
+          "h": 31,
+          "label": "دعوت اعضا",
+          "w": 92
+        },
+        {
+          "h": 29,
+          "label": "خروجی جلسه",
+          "w": 30
+        },
+        {
+          "h": 29,
+          "label": "تغییر رنگ تم اتاق",
+          "w": 30
+        },
+        {
+          "h": 29,
+          "label": "تنظیمات جلسه",
+          "w": 30
+        },
+        {
+          "h": 36,
+          "label": "اعضا (۶)",
+          "w": 181
+        },
+        {
+          "h": 36,
+          "label": "تسک‌ها (۴)",
+          "w": 181
+        },
+        {
+          "h": 23,
+          "label": "مشاهده توضیحات",
+          "w": 96
+        },
+        {
+          "h": 35,
+          "label": "رو کردن کارت‌ها",
+          "w": 125
+        },
+        {
+          "h": 65,
+          "label": "رأی 0",
+          "w": 43
+        },
+        {
+          "h": 65,
+          "label": "رأی 1",
+          "w": 43
+        }
+      ],
+      "smallTargetsCount": 25,
+      "w": 414
+    },
+    {
+      "scenario": "before-room",
+      "h": 932,
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazirmatn, sans-serif",
+      "smallInputs": [],
+      "smallTargets": [
+        {
+          "h": 36,
+          "label": "صفحه اصلی",
+          "w": 117
+        },
+        {
+          "h": 34,
+          "label": "ورود / ثبت‌نام",
+          "w": 100
+        },
+        {
+          "h": 14,
+          "label": "ساخت اتاق واقعی",
+          "w": 95
+        },
+        {
+          "h": 28,
+          "label": "بازگشت به جلسه‌ها",
+          "w": 28
+        },
+        {
+          "h": 31,
+          "label": "دعوت اعضا",
+          "w": 92
+        },
+        {
+          "h": 29,
+          "label": "خروجی جلسه",
+          "w": 30
+        },
+        {
+          "h": 29,
+          "label": "تغییر رنگ تم اتاق",
+          "w": 30
+        },
+        {
+          "h": 29,
+          "label": "تنظیمات جلسه",
+          "w": 30
+        },
+        {
+          "h": 36,
+          "label": "اعضا (۶)",
+          "w": 189
+        },
+        {
+          "h": 36,
+          "label": "تسک‌ها (۴)",
+          "w": 189
+        },
+        {
+          "h": 23,
+          "label": "مشاهده توضیحات",
+          "w": 96
+        },
+        {
+          "h": 35,
+          "label": "رو کردن کارت‌ها",
+          "w": 125
+        },
+        {
+          "h": 65,
+          "label": "رأی 0",
+          "w": 43
+        },
+        {
+          "h": 65,
+          "label": "رأی 1",
+          "w": 43
+        }
+      ],
+      "smallTargetsCount": 25,
+      "w": 430
+    },
+    {
+      "scenario": "before-room",
+      "h": 375,
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazirmatn, sans-serif",
+      "smallInputs": [],
+      "smallTargets": [
+        {
+          "h": 36,
+          "label": "صفحه اصلی",
+          "w": 117
+        },
+        {
+          "h": 34,
+          "label": "ورود / ثبت‌نام",
+          "w": 100
+        },
+        {
+          "h": 14,
+          "label": "ساخت اتاق واقعی",
+          "w": 95
+        },
+        {
+          "h": 28,
+          "label": "بازگشت به جلسه‌ها",
+          "w": 28
+        },
+        {
+          "h": 31,
+          "label": "دعوت اعضا",
+          "w": 92
+        },
+        {
+          "h": 29,
+          "label": "خروجی جلسه",
+          "w": 30
+        },
+        {
+          "h": 29,
+          "label": "تغییر رنگ تم اتاق",
+          "w": 30
+        },
+        {
+          "h": 29,
+          "label": "تنظیمات جلسه",
+          "w": 30
+        },
+        {
+          "h": 36,
+          "label": "اعضا (۶)",
+          "w": 307
+        },
+        {
+          "h": 36,
+          "label": "تسک‌ها (۴)",
+          "w": 307
+        },
+        {
+          "h": 23,
+          "label": "مشاهده توضیحات",
+          "w": 96
+        },
+        {
+          "h": 35,
+          "label": "رو کردن کارت‌ها",
+          "w": 125
+        },
+        {
+          "h": 65,
+          "label": "رأی 0",
+          "w": 43
+        },
+        {
+          "h": 65,
+          "label": "رأی 1",
+          "w": 43
+        }
+      ],
+      "smallTargetsCount": 25,
+      "w": 667
+    },
+    {
+      "scenario": "before-room",
+      "h": 568,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazirmatn, sans-serif",
+      "smallTargets": [
+        {
+          "h": 36,
+          "label": "صفحه اصلی",
+          "w": 117
+        },
+        {
+          "h": 34,
+          "label": "ورود / ثبت‌نام",
+          "w": 100
+        },
+        {
+          "h": 14,
+          "label": "ساخت اتاق واقعی",
+          "w": 95
+        },
+        {
+          "h": 28,
+          "label": "بازگشت به جلسه‌ها",
+          "w": 28
+        },
+        {
+          "h": 31,
+          "label": "دعوت اعضا",
+          "w": 92
+        },
+        {
+          "h": 29,
+          "label": "خروجی جلسه",
+          "w": 30
+        },
+        {
+          "h": 29,
+          "label": "تغییر رنگ تم اتاق",
+          "w": 30
+        },
+        {
+          "h": 29,
+          "label": "تنظیمات جلسه",
+          "w": 30
+        },
+        {
+          "h": 36,
+          "label": "اعضا (۶)",
+          "w": 134
+        },
+        {
+          "h": 36,
+          "label": "تسک‌ها (۴)",
+          "w": 134
+        },
+        {
+          "h": 23,
+          "label": "مشاهده توضیحات",
+          "w": 96
+        },
+        {
+          "h": 35,
+          "label": "رو کردن کارت‌ها",
+          "w": 125
+        },
+        {
+          "h": 65,
+          "label": "رأی 0",
+          "w": 43
+        },
+        {
+          "h": 65,
+          "label": "رأی 1",
+          "w": 43
+        }
+      ],
+      "smallTargetsCount": 25,
+      "w": 320
+    },
+    {
+      "scenario": "before-room",
+      "h": 640,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazirmatn, sans-serif",
+      "smallTargets": [
+        {
+          "h": 36,
+          "label": "صفحه اصلی",
+          "w": 117
+        },
+        {
+          "h": 34,
+          "label": "ورود / ثبت‌نام",
+          "w": 100
+        },
+        {
+          "h": 14,
+          "label": "ساخت اتاق واقعی",
+          "w": 95
+        },
+        {
+          "h": 28,
+          "label": "بازگشت به جلسه‌ها",
+          "w": 28
+        },
+        {
+          "h": 31,
+          "label": "دعوت اعضا",
+          "w": 92
+        },
+        {
+          "h": 29,
+          "label": "خروجی جلسه",
+          "w": 30
+        },
+        {
+          "h": 29,
+          "label": "تغییر رنگ تم اتاق",
+          "w": 30
+        },
+        {
+          "h": 29,
+          "label": "تنظیمات جلسه",
+          "w": 30
+        },
+        {
+          "h": 36,
+          "label": "اعضا (۶)",
+          "w": 154
+        },
+        {
+          "h": 36,
+          "label": "تسک‌ها (۴)",
+          "w": 154
+        },
+        {
+          "h": 23,
+          "label": "مشاهده توضیحات",
+          "w": 96
+        },
+        {
+          "h": 35,
+          "label": "رو کردن کارت‌ها",
+          "w": 125
+        },
+        {
+          "h": 65,
+          "label": "رأی 0",
+          "w": 43
+        },
+        {
+          "h": 65,
+          "label": "رأی 1",
+          "w": 43
+        }
+      ],
+      "smallTargetsCount": 25,
+      "w": 360
+    },
+    {
+      "scenario": "before-room",
+      "h": 667,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazirmatn, sans-serif",
+      "smallTargets": [
+        {
+          "h": 36,
+          "label": "صفحه اصلی",
+          "w": 117
+        },
+        {
+          "h": 34,
+          "label": "ورود / ثبت‌نام",
+          "w": 100
+        },
+        {
+          "h": 14,
+          "label": "ساخت اتاق واقعی",
+          "w": 95
+        },
+        {
+          "h": 28,
+          "label": "بازگشت به جلسه‌ها",
+          "w": 28
+        },
+        {
+          "h": 31,
+          "label": "دعوت اعضا",
+          "w": 92
+        },
+        {
+          "h": 29,
+          "label": "خروجی جلسه",
+          "w": 30
+        },
+        {
+          "h": 29,
+          "label": "تغییر رنگ تم اتاق",
+          "w": 30
+        },
+        {
+          "h": 29,
+          "label": "تنظیمات جلسه",
+          "w": 30
+        },
+        {
+          "h": 36,
+          "label": "اعضا (۶)",
+          "w": 161
+        },
+        {
+          "h": 36,
+          "label": "تسک‌ها (۴)",
+          "w": 161
+        },
+        {
+          "h": 23,
+          "label": "مشاهده توضیحات",
+          "w": 96
+        },
+        {
+          "h": 35,
+          "label": "رو کردن کارت‌ها",
+          "w": 125
+        },
+        {
+          "h": 65,
+          "label": "رأی 0",
+          "w": 43
+        },
+        {
+          "h": 65,
+          "label": "رأی 1",
+          "w": 43
+        }
+      ],
+      "smallTargetsCount": 25,
+      "w": 375
+    },
+    {
+      "scenario": "before-room",
+      "h": 844,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazirmatn, sans-serif",
+      "smallTargets": [
+        {
+          "h": 36,
+          "label": "صفحه اصلی",
+          "w": 117
+        },
+        {
+          "h": 34,
+          "label": "ورود / ثبت‌نام",
+          "w": 100
+        },
+        {
+          "h": 14,
+          "label": "ساخت اتاق واقعی",
+          "w": 95
+        },
+        {
+          "h": 28,
+          "label": "بازگشت به جلسه‌ها",
+          "w": 28
+        },
+        {
+          "h": 31,
+          "label": "دعوت اعضا",
+          "w": 92
+        },
+        {
+          "h": 29,
+          "label": "خروجی جلسه",
+          "w": 30
+        },
+        {
+          "h": 29,
+          "label": "تغییر رنگ تم اتاق",
+          "w": 30
+        },
+        {
+          "h": 29,
+          "label": "تنظیمات جلسه",
+          "w": 30
+        },
+        {
+          "h": 36,
+          "label": "اعضا (۶)",
+          "w": 169
+        },
+        {
+          "h": 36,
+          "label": "تسک‌ها (۴)",
+          "w": 169
+        },
+        {
+          "h": 23,
+          "label": "مشاهده توضیحات",
+          "w": 96
+        },
+        {
+          "h": 35,
+          "label": "رو کردن کارت‌ها",
+          "w": 125
+        },
+        {
+          "h": 65,
+          "label": "رأی 0",
+          "w": 43
+        },
+        {
+          "h": 65,
+          "label": "رأی 1",
+          "w": 43
+        }
+      ],
+      "smallTargetsCount": 25,
+      "w": 390
+    },
+    {
+      "scenario": "before-room",
+      "h": 896,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazirmatn, sans-serif",
+      "smallTargets": [
+        {
+          "h": 36,
+          "label": "صفحه اصلی",
+          "w": 117
+        },
+        {
+          "h": 34,
+          "label": "ورود / ثبت‌نام",
+          "w": 100
+        },
+        {
+          "h": 14,
+          "label": "ساخت اتاق واقعی",
+          "w": 95
+        },
+        {
+          "h": 28,
+          "label": "بازگشت به جلسه‌ها",
+          "w": 28
+        },
+        {
+          "h": 31,
+          "label": "دعوت اعضا",
+          "w": 92
+        },
+        {
+          "h": 29,
+          "label": "خروجی جلسه",
+          "w": 30
+        },
+        {
+          "h": 29,
+          "label": "تغییر رنگ تم اتاق",
+          "w": 30
+        },
+        {
+          "h": 29,
+          "label": "تنظیمات جلسه",
+          "w": 30
+        },
+        {
+          "h": 36,
+          "label": "اعضا (۶)",
+          "w": 181
+        },
+        {
+          "h": 36,
+          "label": "تسک‌ها (۴)",
+          "w": 181
+        },
+        {
+          "h": 23,
+          "label": "مشاهده توضیحات",
+          "w": 96
+        },
+        {
+          "h": 35,
+          "label": "رو کردن کارت‌ها",
+          "w": 125
+        },
+        {
+          "h": 65,
+          "label": "رأی 0",
+          "w": 43
+        },
+        {
+          "h": 65,
+          "label": "رأی 1",
+          "w": 43
+        }
+      ],
+      "smallTargetsCount": 25,
+      "w": 414
+    },
+    {
+      "scenario": "before-room",
+      "h": 932,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazirmatn, sans-serif",
+      "smallTargets": [
+        {
+          "h": 36,
+          "label": "صفحه اصلی",
+          "w": 117
+        },
+        {
+          "h": 34,
+          "label": "ورود / ثبت‌نام",
+          "w": 100
+        },
+        {
+          "h": 14,
+          "label": "ساخت اتاق واقعی",
+          "w": 95
+        },
+        {
+          "h": 28,
+          "label": "بازگشت به جلسه‌ها",
+          "w": 28
+        },
+        {
+          "h": 31,
+          "label": "دعوت اعضا",
+          "w": 92
+        },
+        {
+          "h": 29,
+          "label": "خروجی جلسه",
+          "w": 30
+        },
+        {
+          "h": 29,
+          "label": "تغییر رنگ تم اتاق",
+          "w": 30
+        },
+        {
+          "h": 29,
+          "label": "تنظیمات جلسه",
+          "w": 30
+        },
+        {
+          "h": 36,
+          "label": "اعضا (۶)",
+          "w": 189
+        },
+        {
+          "h": 36,
+          "label": "تسک‌ها (۴)",
+          "w": 189
+        },
+        {
+          "h": 23,
+          "label": "مشاهده توضیحات",
+          "w": 96
+        },
+        {
+          "h": 35,
+          "label": "رو کردن کارت‌ها",
+          "w": 125
+        },
+        {
+          "h": 65,
+          "label": "رأی 0",
+          "w": 43
+        },
+        {
+          "h": 65,
+          "label": "رأی 1",
+          "w": 43
+        }
+      ],
+      "smallTargetsCount": 25,
+      "w": 430
+    },
+    {
+      "scenario": "before-room",
+      "h": 375,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazirmatn, sans-serif",
+      "smallTargets": [
+        {
+          "h": 36,
+          "label": "صفحه اصلی",
+          "w": 117
+        },
+        {
+          "h": 34,
+          "label": "ورود / ثبت‌نام",
+          "w": 100
+        },
+        {
+          "h": 14,
+          "label": "ساخت اتاق واقعی",
+          "w": 95
+        },
+        {
+          "h": 28,
+          "label": "بازگشت به جلسه‌ها",
+          "w": 28
+        },
+        {
+          "h": 31,
+          "label": "دعوت اعضا",
+          "w": 92
+        },
+        {
+          "h": 29,
+          "label": "خروجی جلسه",
+          "w": 30
+        },
+        {
+          "h": 29,
+          "label": "تغییر رنگ تم اتاق",
+          "w": 30
+        },
+        {
+          "h": 29,
+          "label": "تنظیمات جلسه",
+          "w": 30
+        },
+        {
+          "h": 36,
+          "label": "اعضا (۶)",
+          "w": 307
+        },
+        {
+          "h": 36,
+          "label": "تسک‌ها (۴)",
+          "w": 307
+        },
+        {
+          "h": 23,
+          "label": "مشاهده توضیحات",
+          "w": 96
+        },
+        {
+          "h": 35,
+          "label": "رو کردن کارت‌ها",
+          "w": 125
+        },
+        {
+          "h": 65,
+          "label": "رأی 0",
+          "w": 43
+        },
+        {
+          "h": 65,
+          "label": "رأی 1",
+          "w": 43
+        }
+      ],
+      "smallTargetsCount": 25,
+      "w": 667
+    },
+    {
+      "scenario": "before-room",
+      "h": 390,
+      "inputFonts": [
+        {
+          "font": "11px",
+          "label": "جستجوی تسک"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazirmatn, sans-serif",
+      "smallTargets": [
+        {
+          "h": 43,
+          "label": "صفحه اصلی",
+          "w": 142
+        },
+        {
+          "h": 20,
+          "label": "راهنما",
+          "w": 65
+        },
+        {
+          "h": 36,
+          "label": "تغییر حالت روشن و تیره",
+          "w": 42
+        },
+        {
+          "h": 38,
+          "label": "ورود / ثبت‌نام",
+          "w": 117
+        },
+        {
+          "h": 15,
+          "label": "ساخت اتاق واقعی",
+          "w": 110
+        },
+        {
+          "h": 33,
+          "label": "بازگشت به جلسه‌ها",
+          "w": 33
+        },
+        {
+          "h": 38,
+          "label": "دعوت اعضا",
+          "w": 107
+        },
+        {
+          "h": 36,
+          "label": "خروجی جلسه",
+          "w": 36
+        },
+        {
+          "h": 36,
+          "label": "تغییر رنگ تم اتاق",
+          "w": 36
+        },
+        {
+          "h": 36,
+          "label": "تنظیمات جلسه",
+          "w": 36
+        },
+        {
+          "h": 24,
+          "label": "پلنینگ پوکر چطور کار می‌کند؟",
+          "w": 165
+        },
+        {
+          "h": 22,
+          "label": "مشاهده توضیحات",
+          "w": 88
+        },
+        {
+          "h": 31,
+          "label": "رو کردن کارت‌ها",
+          "w": 121
+        },
+        {
+          "h": 59,
+          "label": "رأی 0",
+          "w": 34
+        }
+      ],
+      "smallTargetsCount": 29,
+      "w": 844
+    },
+    {
+      "scenario": "before-room",
+      "h": 1024,
+      "inputFonts": [
+        {
+          "font": "11px",
+          "label": "جستجوی تسک"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazirmatn, sans-serif",
+      "smallTargets": [
+        {
+          "h": 43,
+          "label": "صفحه اصلی",
+          "w": 142
+        },
+        {
+          "h": 20,
+          "label": "راهنما",
+          "w": 65
+        },
+        {
+          "h": 36,
+          "label": "تغییر حالت روشن و تیره",
+          "w": 42
+        },
+        {
+          "h": 38,
+          "label": "ورود / ثبت‌نام",
+          "w": 117
+        },
+        {
+          "h": 15,
+          "label": "ساخت اتاق واقعی",
+          "w": 110
+        },
+        {
+          "h": 33,
+          "label": "بازگشت به جلسه‌ها",
+          "w": 33
+        },
+        {
+          "h": 38,
+          "label": "دعوت اعضا",
+          "w": 107
+        },
+        {
+          "h": 36,
+          "label": "خروجی جلسه",
+          "w": 36
+        },
+        {
+          "h": 36,
+          "label": "تغییر رنگ تم اتاق",
+          "w": 36
+        },
+        {
+          "h": 36,
+          "label": "تنظیمات جلسه",
+          "w": 36
+        },
+        {
+          "h": 24,
+          "label": "پلنینگ پوکر چطور کار می‌کند؟",
+          "w": 165
+        },
+        {
+          "h": 23,
+          "label": "مشاهده توضیحات",
+          "w": 96
+        },
+        {
+          "h": 35,
+          "label": "رو کردن کارت‌ها",
+          "w": 125
+        },
+        {
+          "h": 57,
+          "label": "رأی 0",
+          "w": 27
+        }
+      ],
+      "smallTargetsCount": 29,
+      "w": 768
+    },
+    {
+      "scenario": "before-landing",
+      "h": 568,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 7,
+      "rootFont": "Vazirmatn, sans-serif",
+      "smallTargets": [
+        {
+          "h": 36,
+          "label": "صفحه اصلی",
+          "w": 117
+        },
+        {
+          "h": 34,
+          "label": "ورود / ثبت‌نام",
+          "w": 100
+        }
+      ],
+      "smallTargetsCount": 2,
+      "w": 320
+    },
+    {
+      "scenario": "before-landing",
+      "h": 640,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazirmatn, sans-serif",
+      "smallTargets": [
+        {
+          "h": 36,
+          "label": "صفحه اصلی",
+          "w": 117
+        },
+        {
+          "h": 34,
+          "label": "ورود / ثبت‌نام",
+          "w": 100
+        }
+      ],
+      "smallTargetsCount": 2,
+      "w": 360
+    },
+    {
+      "scenario": "before-landing",
+      "h": 667,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazirmatn, sans-serif",
+      "smallTargets": [
+        {
+          "h": 36,
+          "label": "صفحه اصلی",
+          "w": 117
+        },
+        {
+          "h": 34,
+          "label": "ورود / ثبت‌نام",
+          "w": 100
+        }
+      ],
+      "smallTargetsCount": 2,
+      "w": 375
+    },
+    {
+      "scenario": "before-landing",
+      "h": 844,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazirmatn, sans-serif",
+      "smallTargets": [
+        {
+          "h": 36,
+          "label": "صفحه اصلی",
+          "w": 117
+        },
+        {
+          "h": 34,
+          "label": "ورود / ثبت‌نام",
+          "w": 100
+        }
+      ],
+      "smallTargetsCount": 2,
+      "w": 390
+    },
+    {
+      "scenario": "before-landing",
+      "h": 896,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazirmatn, sans-serif",
+      "smallTargets": [
+        {
+          "h": 36,
+          "label": "صفحه اصلی",
+          "w": 117
+        },
+        {
+          "h": 34,
+          "label": "ورود / ثبت‌نام",
+          "w": 100
+        }
+      ],
+      "smallTargetsCount": 2,
+      "w": 414
+    },
+    {
+      "scenario": "before-landing",
+      "h": 932,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazirmatn, sans-serif",
+      "smallTargets": [
+        {
+          "h": 36,
+          "label": "صفحه اصلی",
+          "w": 117
+        },
+        {
+          "h": 34,
+          "label": "ورود / ثبت‌نام",
+          "w": 100
+        }
+      ],
+      "smallTargetsCount": 2,
+      "w": 430
+    },
+    {
+      "scenario": "before-landing",
+      "h": 375,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazirmatn, sans-serif",
+      "smallTargets": [
+        {
+          "h": 36,
+          "label": "صفحه اصلی",
+          "w": 117
+        },
+        {
+          "h": 34,
+          "label": "ورود / ثبت‌نام",
+          "w": 100
+        }
+      ],
+      "smallTargetsCount": 2,
+      "w": 667
+    },
+    {
+      "scenario": "before-landing",
+      "h": 390,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazirmatn, sans-serif",
+      "smallTargets": [
+        {
+          "h": 43,
+          "label": "صفحه اصلی",
+          "w": 142
+        },
+        {
+          "h": 20,
+          "label": "راهنما",
+          "w": 65
+        },
+        {
+          "h": 36,
+          "label": "تغییر حالت روشن و تیره",
+          "w": 42
+        },
+        {
+          "h": 38,
+          "label": "ورود / ثبت‌نام",
+          "w": 117
+        }
+      ],
+      "smallTargetsCount": 4,
+      "w": 844
+    },
+    {
+      "scenario": "before-landing",
+      "h": 1024,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazirmatn, sans-serif",
+      "smallTargets": [
+        {
+          "h": 43,
+          "label": "صفحه اصلی",
+          "w": 142
+        },
+        {
+          "h": 20,
+          "label": "راهنما",
+          "w": 65
+        },
+        {
+          "h": 36,
+          "label": "تغییر حالت روشن و تیره",
+          "w": 42
+        },
+        {
+          "h": 38,
+          "label": "ورود / ثبت‌نام",
+          "w": 117
+        }
+      ],
+      "smallTargetsCount": 4,
+      "w": 768
+    },
+    {
+      "scenario": "before-login",
+      "h": 568,
+      "inputFonts": [
+        {
+          "font": "13px",
+          "label": "شماره موبایل"
+        }
+      ],
+      "modal": {
+        "bottom": 502,
+        "height": 436,
+        "scrollable": false,
+        "top": 66
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazirmatn, sans-serif",
+      "smallTargets": [
+        {
+          "h": 36,
+          "label": "صفحه اصلی",
+          "w": 117
+        },
+        {
+          "h": 34,
+          "label": "ورود / ثبت‌نام",
+          "w": 100
+        },
+        {
+          "h": 36,
+          "label": "بستن",
+          "w": 36
+        }
+      ],
+      "smallTargetsCount": 3,
+      "w": 320
+    },
+    {
+      "scenario": "after-landing",
+      "h": 568,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 320
+    },
+    {
+      "scenario": "after-landing",
+      "h": 640,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 360
+    },
+    {
+      "scenario": "after-landing",
+      "h": 667,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 375
+    },
+    {
+      "scenario": "after-landing",
+      "h": 844,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 390
+    },
+    {
+      "scenario": "after-landing",
+      "h": 896,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 414
+    },
+    {
+      "scenario": "after-landing",
+      "h": 932,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 430
+    },
+    {
+      "scenario": "after-landing",
+      "h": 375,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 667
+    },
+    {
+      "scenario": "after-landing",
+      "h": 390,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 844
+    },
+    {
+      "scenario": "after-landing",
+      "h": 1024,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 768
+    },
+    {
+      "scenario": "login-phone",
+      "h": 568,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "شماره موبایل"
+        }
+      ],
+      "modal": {
+        "bottom": 516,
+        "height": 465,
+        "scrollable": false,
+        "top": 52
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 320
+    },
+    {
+      "scenario": "login-phone",
+      "h": 640,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "شماره موبایل"
+        }
+      ],
+      "modal": {
+        "bottom": 552,
+        "height": 465,
+        "scrollable": false,
+        "top": 88
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 360
+    },
+    {
+      "scenario": "login-phone",
+      "h": 667,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "شماره موبایل"
+        }
+      ],
+      "modal": {
+        "bottom": 566,
+        "height": 465,
+        "scrollable": false,
+        "top": 101
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 375
+    },
+    {
+      "scenario": "login-phone",
+      "h": 844,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "شماره موبایل"
+        }
+      ],
+      "modal": {
+        "bottom": 641,
+        "height": 439,
+        "scrollable": false,
+        "top": 203
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 390
+    },
+    {
+      "scenario": "login-phone",
+      "h": 896,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "شماره موبایل"
+        }
+      ],
+      "modal": {
+        "bottom": 667,
+        "height": 439,
+        "scrollable": false,
+        "top": 229
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 414
+    },
+    {
+      "scenario": "login-phone",
+      "h": 932,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "شماره موبایل"
+        }
+      ],
+      "modal": {
+        "bottom": 685,
+        "height": 439,
+        "scrollable": false,
+        "top": 247
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 430
+    },
+    {
+      "scenario": "login-phone",
+      "h": 375,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "شماره موبایل"
+        }
+      ],
+      "modal": {
+        "bottom": 363,
+        "height": 351,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 667
+    },
+    {
+      "scenario": "login-phone",
+      "h": 390,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "شماره موبایل"
+        }
+      ],
+      "modal": {
+        "bottom": 378,
+        "height": 366,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 844
+    },
+    {
+      "scenario": "login-phone",
+      "h": 1024,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "شماره موبایل"
+        }
+      ],
+      "modal": {
+        "bottom": 731,
+        "height": 439,
+        "scrollable": false,
+        "top": 293
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 768
+    },
+    {
+      "scenario": "login-short-viewport",
+      "h": 320,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "شماره موبایل"
+        }
+      ],
+      "modal": {
+        "bottom": 308,
+        "height": 296,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 320
+    },
+    {
+      "scenario": "login-short-viewport",
+      "h": 360,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "شماره موبایل"
+        }
+      ],
+      "modal": {
+        "bottom": 348,
+        "height": 336,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 390
+    },
+    {
+      "scenario": "login-otp",
+      "h": 568,
+      "inputFonts": [
+        {
+          "font": "22px",
+          "label": "کد یک‌بارمصرف"
+        }
+      ],
+      "modal": {
+        "bottom": 556,
+        "height": 544,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 320
+    },
+    {
+      "scenario": "login-otp",
+      "h": 640,
+      "inputFonts": [
+        {
+          "font": "22px",
+          "label": "کد یک‌بارمصرف"
+        }
+      ],
+      "modal": {
+        "bottom": 628,
+        "height": 616,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 360
+    },
+    {
+      "scenario": "login-otp",
+      "h": 667,
+      "inputFonts": [
+        {
+          "font": "22px",
+          "label": "کد یک‌بارمصرف"
+        }
+      ],
+      "modal": {
+        "bottom": 644,
+        "height": 620,
+        "scrollable": false,
+        "top": 23
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 375
+    },
+    {
+      "scenario": "login-otp",
+      "h": 844,
+      "inputFonts": [
+        {
+          "font": "22px",
+          "label": "کد یک‌بارمصرف"
+        }
+      ],
+      "modal": {
+        "bottom": 732,
+        "height": 620,
+        "scrollable": false,
+        "top": 112
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 390
+    },
+    {
+      "scenario": "login-otp",
+      "h": 896,
+      "inputFonts": [
+        {
+          "font": "22px",
+          "label": "کد یک‌بارمصرف"
+        }
+      ],
+      "modal": {
+        "bottom": 758,
+        "height": 620,
+        "scrollable": false,
+        "top": 138
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 414
+    },
+    {
+      "scenario": "login-otp",
+      "h": 932,
+      "inputFonts": [
+        {
+          "font": "22px",
+          "label": "کد یک‌بارمصرف"
+        }
+      ],
+      "modal": {
+        "bottom": 776,
+        "height": 620,
+        "scrollable": false,
+        "top": 156
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 430
+    },
+    {
+      "scenario": "login-otp",
+      "h": 375,
+      "inputFonts": [
+        {
+          "font": "22px",
+          "label": "کد یک‌بارمصرف"
+        }
+      ],
+      "modal": {
+        "bottom": 363,
+        "height": 351,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 667
+    },
+    {
+      "scenario": "login-otp",
+      "h": 390,
+      "inputFonts": [
+        {
+          "font": "22px",
+          "label": "کد یک‌بارمصرف"
+        }
+      ],
+      "modal": {
+        "bottom": 378,
+        "height": 366,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 844
+    },
+    {
+      "scenario": "login-otp",
+      "h": 1024,
+      "inputFonts": [
+        {
+          "font": "22px",
+          "label": "کد یک‌بارمصرف"
+        }
+      ],
+      "modal": {
+        "bottom": 822,
+        "height": 620,
+        "scrollable": false,
+        "top": 202
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 768
+    },
+    {
+      "scenario": "otp-short-viewport",
+      "h": 320,
+      "inputFonts": [
+        {
+          "font": "22px",
+          "label": "کد یک‌بارمصرف"
+        }
+      ],
+      "modal": {
+        "bottom": 308,
+        "height": 296,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 320
+    },
+    {
+      "scenario": "otp-short-viewport",
+      "h": 360,
+      "inputFonts": [
+        {
+          "font": "22px",
+          "label": "کد یک‌بارمصرف"
+        }
+      ],
+      "modal": {
+        "bottom": 348,
+        "height": 336,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 390
+    },
+    {
+      "scenario": "dashboard",
+      "h": 568,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی جلسه"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [
+        {
+          "h": 28,
+          "label": "جستجوی جلسه",
+          "w": 213
+        }
+      ],
+      "smallTargetsCount": 1,
+      "w": 320
+    },
+    {
+      "scenario": "dashboard",
+      "h": 640,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی جلسه"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [
+        {
+          "h": 28,
+          "label": "جستجوی جلسه",
+          "w": 253
+        }
+      ],
+      "smallTargetsCount": 1,
+      "w": 360
+    },
+    {
+      "scenario": "dashboard",
+      "h": 667,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی جلسه"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [
+        {
+          "h": 28,
+          "label": "جستجوی جلسه",
+          "w": 268
+        }
+      ],
+      "smallTargetsCount": 1,
+      "w": 375
+    },
+    {
+      "scenario": "dashboard",
+      "h": 844,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی جلسه"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [
+        {
+          "h": 28,
+          "label": "جستجوی جلسه",
+          "w": 283
+        }
+      ],
+      "smallTargetsCount": 1,
+      "w": 390
+    },
+    {
+      "scenario": "dashboard",
+      "h": 896,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی جلسه"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [
+        {
+          "h": 28,
+          "label": "جستجوی جلسه",
+          "w": 307
+        }
+      ],
+      "smallTargetsCount": 1,
+      "w": 414
+    },
+    {
+      "scenario": "dashboard",
+      "h": 932,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی جلسه"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [
+        {
+          "h": 28,
+          "label": "جستجوی جلسه",
+          "w": 323
+        }
+      ],
+      "smallTargetsCount": 1,
+      "w": 430
+    },
+    {
+      "scenario": "dashboard",
+      "h": 375,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی جلسه"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [
+        {
+          "h": 28,
+          "label": "جستجوی جلسه",
+          "w": 560
+        }
+      ],
+      "smallTargetsCount": 1,
+      "w": 667
+    },
+    {
+      "scenario": "dashboard",
+      "h": 390,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی جلسه"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [
+        {
+          "h": 28,
+          "label": "جستجوی جلسه",
+          "w": 713
+        }
+      ],
+      "smallTargetsCount": 1,
+      "w": 844
+    },
+    {
+      "scenario": "dashboard",
+      "h": 1024,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی جلسه"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [
+        {
+          "h": 28,
+          "label": "جستجوی جلسه",
+          "w": 652
+        }
+      ],
+      "smallTargetsCount": 1,
+      "w": 768
+    },
+    {
+      "scenario": "create-room",
+      "h": 568,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "نام جلسه"
+        }
+      ],
+      "modal": {
+        "bottom": 556,
+        "height": 544,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 320
+    },
+    {
+      "scenario": "create-room",
+      "h": 640,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "نام جلسه"
+        }
+      ],
+      "modal": {
+        "bottom": 628,
+        "height": 616,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 360
+    },
+    {
+      "scenario": "create-room",
+      "h": 667,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "نام جلسه"
+        }
+      ],
+      "modal": {
+        "bottom": 655,
+        "height": 643,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 375
+    },
+    {
+      "scenario": "create-room",
+      "h": 844,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "نام جلسه"
+        }
+      ],
+      "modal": {
+        "bottom": 832,
+        "height": 820,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 390
+    },
+    {
+      "scenario": "create-room",
+      "h": 896,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "نام جلسه"
+        }
+      ],
+      "modal": {
+        "bottom": 884,
+        "height": 872,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 414
+    },
+    {
+      "scenario": "create-room",
+      "h": 932,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "نام جلسه"
+        }
+      ],
+      "modal": {
+        "bottom": 846,
+        "height": 759,
+        "scrollable": false,
+        "top": 87
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 430
+    },
+    {
+      "scenario": "create-room",
+      "h": 375,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "نام جلسه"
+        }
+      ],
+      "modal": {
+        "bottom": 363,
+        "height": 351,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 667
+    },
+    {
+      "scenario": "create-room",
+      "h": 390,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "نام جلسه"
+        }
+      ],
+      "modal": {
+        "bottom": 378,
+        "height": 366,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 844
+    },
+    {
+      "scenario": "create-room",
+      "h": 1024,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "نام جلسه"
+        }
+      ],
+      "modal": {
+        "bottom": 892,
+        "height": 759,
+        "scrollable": false,
+        "top": 133
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 768
+    },
+    {
+      "scenario": "account-menu",
+      "h": 568,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 468,
+        "height": 367,
+        "scrollable": false,
+        "top": 101
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 320
+    },
+    {
+      "scenario": "account-menu",
+      "h": 640,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 504,
+        "height": 367,
+        "scrollable": false,
+        "top": 137
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 360
+    },
+    {
+      "scenario": "account-menu",
+      "h": 667,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 517,
+        "height": 367,
+        "scrollable": false,
+        "top": 150
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 375
+    },
+    {
+      "scenario": "account-menu",
+      "h": 844,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 606,
+        "height": 367,
+        "scrollable": false,
+        "top": 239
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 390
+    },
+    {
+      "scenario": "account-menu",
+      "h": 896,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 632,
+        "height": 367,
+        "scrollable": false,
+        "top": 265
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 414
+    },
+    {
+      "scenario": "account-menu",
+      "h": 932,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 650,
+        "height": 367,
+        "scrollable": false,
+        "top": 283
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 430
+    },
+    {
+      "scenario": "account-menu",
+      "h": 375,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 363,
+        "height": 351,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 667
+    },
+    {
+      "scenario": "account-menu",
+      "h": 390,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 378,
+        "height": 366,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 844
+    },
+    {
+      "scenario": "account-menu",
+      "h": 1024,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 696,
+        "height": 367,
+        "scrollable": false,
+        "top": 329
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 768
+    },
+    {
+      "scenario": "profile",
+      "h": 568,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "نام نمایشی"
+        },
+        {
+          "font": "16px",
+          "label": ""
+        },
+        {
+          "font": "16px",
+          "label": "readonly"
+        }
+      ],
+      "modal": {
+        "bottom": 556,
+        "height": 544,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 320
+    },
+    {
+      "scenario": "profile",
+      "h": 640,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "نام نمایشی"
+        },
+        {
+          "font": "16px",
+          "label": ""
+        },
+        {
+          "font": "16px",
+          "label": "readonly"
+        }
+      ],
+      "modal": {
+        "bottom": 628,
+        "height": 616,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 360
+    },
+    {
+      "scenario": "profile",
+      "h": 667,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "نام نمایشی"
+        },
+        {
+          "font": "16px",
+          "label": ""
+        },
+        {
+          "font": "16px",
+          "label": "readonly"
+        }
+      ],
+      "modal": {
+        "bottom": 655,
+        "height": 643,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 375
+    },
+    {
+      "scenario": "profile",
+      "h": 844,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "نام نمایشی"
+        },
+        {
+          "font": "16px",
+          "label": ""
+        },
+        {
+          "font": "16px",
+          "label": "readonly"
+        }
+      ],
+      "modal": {
+        "bottom": 757,
+        "height": 669,
+        "scrollable": false,
+        "top": 88
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 390
+    },
+    {
+      "scenario": "profile",
+      "h": 896,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "نام نمایشی"
+        },
+        {
+          "font": "16px",
+          "label": ""
+        },
+        {
+          "font": "16px",
+          "label": "readonly"
+        }
+      ],
+      "modal": {
+        "bottom": 783,
+        "height": 669,
+        "scrollable": false,
+        "top": 114
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 414
+    },
+    {
+      "scenario": "profile",
+      "h": 932,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "نام نمایشی"
+        },
+        {
+          "font": "16px",
+          "label": ""
+        },
+        {
+          "font": "16px",
+          "label": "readonly"
+        }
+      ],
+      "modal": {
+        "bottom": 801,
+        "height": 669,
+        "scrollable": false,
+        "top": 132
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 430
+    },
+    {
+      "scenario": "profile",
+      "h": 375,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "نام نمایشی"
+        },
+        {
+          "font": "16px",
+          "label": ""
+        },
+        {
+          "font": "16px",
+          "label": "readonly"
+        }
+      ],
+      "modal": {
+        "bottom": 363,
+        "height": 351,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 667
+    },
+    {
+      "scenario": "profile",
+      "h": 390,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "نام نمایشی"
+        },
+        {
+          "font": "16px",
+          "label": ""
+        },
+        {
+          "font": "16px",
+          "label": "readonly"
+        }
+      ],
+      "modal": {
+        "bottom": 378,
+        "height": 366,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 844
+    },
+    {
+      "scenario": "profile",
+      "h": 1024,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "نام نمایشی"
+        },
+        {
+          "font": "16px",
+          "label": ""
+        },
+        {
+          "font": "16px",
+          "label": "readonly"
+        }
+      ],
+      "modal": {
+        "bottom": 847,
+        "height": 669,
+        "scrollable": false,
+        "top": 178
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 768
+    },
+    {
+      "scenario": "profile-short-viewport",
+      "h": 320,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "نام نمایشی"
+        },
+        {
+          "font": "16px",
+          "label": ""
+        },
+        {
+          "font": "16px",
+          "label": "readonly"
+        }
+      ],
+      "modal": {
+        "bottom": 308,
+        "height": 296,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 320
+    },
+    {
+      "scenario": "profile-short-viewport",
+      "h": 360,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "نام نمایشی"
+        },
+        {
+          "font": "16px",
+          "label": ""
+        },
+        {
+          "font": "16px",
+          "label": "readonly"
+        }
+      ],
+      "modal": {
+        "bottom": 348,
+        "height": 336,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 390
+    },
+    {
+      "scenario": "room-voting-stress",
+      "h": 568,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 320
+    },
+    {
+      "scenario": "room-voting-stress",
+      "h": 640,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 360
+    },
+    {
+      "scenario": "room-voting-stress",
+      "h": 667,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 375
+    },
+    {
+      "scenario": "room-voting-stress",
+      "h": 844,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 390
+    },
+    {
+      "scenario": "room-voting-stress",
+      "h": 896,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 414
+    },
+    {
+      "scenario": "room-voting-stress",
+      "h": 932,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 430
+    },
+    {
+      "scenario": "room-voting-stress",
+      "h": 375,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 667
+    },
+    {
+      "scenario": "room-voting-stress",
+      "h": 390,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 844
+    },
+    {
+      "scenario": "room-voting-stress",
+      "h": 1024,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 768
+    },
+    {
+      "scenario": "room-320-stable",
+      "h": 568,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 320
+    },
+    {
+      "scenario": "people-expanded",
+      "h": 568,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 320
+    },
+    {
+      "scenario": "people-expanded",
+      "h": 640,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 360
+    },
+    {
+      "scenario": "people-expanded",
+      "h": 667,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 375
+    },
+    {
+      "scenario": "people-expanded",
+      "h": 844,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 390
+    },
+    {
+      "scenario": "people-expanded",
+      "h": 896,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 414
+    },
+    {
+      "scenario": "people-expanded",
+      "h": 932,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 430
+    },
+    {
+      "scenario": "people-expanded",
+      "h": 375,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 667
+    },
+    {
+      "scenario": "people-expanded",
+      "h": 390,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 844
+    },
+    {
+      "scenario": "people-expanded",
+      "h": 1024,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 768
+    },
+    {
+      "scenario": "room-voting-final",
+      "h": 568,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 320
+    },
+    {
+      "scenario": "room-voting-final",
+      "h": 640,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 360
+    },
+    {
+      "scenario": "room-voting-final",
+      "h": 667,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 375
+    },
+    {
+      "scenario": "room-voting-final",
+      "h": 844,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 390
+    },
+    {
+      "scenario": "room-voting-final",
+      "h": 896,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 414
+    },
+    {
+      "scenario": "room-voting-final",
+      "h": 932,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 430
+    },
+    {
+      "scenario": "room-voting-final",
+      "h": 375,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 667
+    },
+    {
+      "scenario": "room-voting-final",
+      "h": 390,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 844
+    },
+    {
+      "scenario": "room-voting-final",
+      "h": 1024,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 768
+    },
+    {
+      "scenario": "room-voting-detail",
+      "collisions": [
+        {
+          "content": "P",
+          "seat": 6
+        },
+        {
+          "content": "table-vote-progress",
+          "seat": 6
+        },
+        {
+          "content": "P",
+          "seat": 7
+        },
+        {
+          "content": "table-vote-progress",
+          "seat": 7
+        }
+      ],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 568,
+      "panels": [],
+      "w": 320
+    },
+    {
+      "scenario": "room-voting-detail",
+      "collisions": [
+        {
+          "content": "P",
+          "seat": 6
+        },
+        {
+          "content": "table-vote-progress",
+          "seat": 6
+        },
+        {
+          "content": "P",
+          "seat": 7
+        },
+        {
+          "content": "table-vote-progress",
+          "seat": 7
+        }
+      ],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 640,
+      "panels": [],
+      "w": 360
+    },
+    {
+      "scenario": "room-voting-detail",
+      "collisions": [
+        {
+          "content": "P",
+          "seat": 6
+        },
+        {
+          "content": "table-vote-progress",
+          "seat": 6
+        },
+        {
+          "content": "P",
+          "seat": 7
+        },
+        {
+          "content": "table-vote-progress",
+          "seat": 7
+        }
+      ],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 667,
+      "panels": [],
+      "w": 375
+    },
+    {
+      "scenario": "room-voting-detail",
+      "collisions": [
+        {
+          "content": "P",
+          "seat": 6
+        },
+        {
+          "content": "table-vote-progress",
+          "seat": 6
+        },
+        {
+          "content": "P",
+          "seat": 7
+        },
+        {
+          "content": "table-vote-progress",
+          "seat": 7
+        }
+      ],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 844,
+      "panels": [],
+      "w": 390
+    },
+    {
+      "scenario": "room-voting-detail",
+      "collisions": [
+        {
+          "content": "table-vote-progress",
+          "seat": 6
+        },
+        {
+          "content": "table-vote-progress",
+          "seat": 7
+        }
+      ],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 896,
+      "panels": [],
+      "w": 414
+    },
+    {
+      "scenario": "room-voting-detail",
+      "collisions": [
+        {
+          "content": "table-vote-progress",
+          "seat": 6
+        },
+        {
+          "content": "table-vote-progress",
+          "seat": 7
+        }
+      ],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 932,
+      "panels": [],
+      "w": 430
+    },
+    {
+      "scenario": "room-voting-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 375,
+      "panels": [],
+      "w": 667
+    },
+    {
+      "scenario": "room-voting-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 390,
+      "panels": [],
+      "w": 844
+    },
+    {
+      "scenario": "room-voting-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 1024,
+      "panels": [],
+      "w": 768
+    },
+    {
+      "scenario": "people-panel-detail",
+      "collisions": [
+        {
+          "content": "P",
+          "seat": 6
+        },
+        {
+          "content": "table-vote-progress",
+          "seat": 6
+        },
+        {
+          "content": "P",
+          "seat": 7
+        },
+        {
+          "content": "table-vote-progress",
+          "seat": 7
+        }
+      ],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 568,
+      "panels": [
+        {
+          "class": "participant-list",
+          "height": 284,
+          "scrollHeight": 1736,
+          "scrollWidth": 266,
+          "width": 266
+        }
+      ],
+      "w": 320
+    },
+    {
+      "scenario": "people-panel-detail",
+      "collisions": [
+        {
+          "content": "P",
+          "seat": 6
+        },
+        {
+          "content": "table-vote-progress",
+          "seat": 6
+        },
+        {
+          "content": "P",
+          "seat": 7
+        },
+        {
+          "content": "table-vote-progress",
+          "seat": 7
+        }
+      ],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 640,
+      "panels": [
+        {
+          "class": "participant-list",
+          "height": 320,
+          "scrollHeight": 1422,
+          "scrollWidth": 306,
+          "width": 306
+        }
+      ],
+      "w": 360
+    },
+    {
+      "scenario": "people-panel-detail",
+      "collisions": [
+        {
+          "content": "P",
+          "seat": 6
+        },
+        {
+          "content": "table-vote-progress",
+          "seat": 6
+        },
+        {
+          "content": "P",
+          "seat": 7
+        },
+        {
+          "content": "table-vote-progress",
+          "seat": 7
+        }
+      ],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 667,
+      "panels": [
+        {
+          "class": "participant-list",
+          "height": 334,
+          "scrollHeight": 1422,
+          "scrollWidth": 321,
+          "width": 321
+        }
+      ],
+      "w": 375
+    },
+    {
+      "scenario": "people-panel-detail",
+      "collisions": [
+        {
+          "content": "P",
+          "seat": 6
+        },
+        {
+          "content": "table-vote-progress",
+          "seat": 6
+        },
+        {
+          "content": "P",
+          "seat": 7
+        },
+        {
+          "content": "table-vote-progress",
+          "seat": 7
+        }
+      ],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 844,
+      "panels": [
+        {
+          "class": "participant-list",
+          "height": 422,
+          "scrollHeight": 1242,
+          "scrollWidth": 336,
+          "width": 336
+        }
+      ],
+      "w": 390
+    },
+    {
+      "scenario": "people-panel-detail",
+      "collisions": [
+        {
+          "content": "table-vote-progress",
+          "seat": 6
+        },
+        {
+          "content": "table-vote-progress",
+          "seat": 7
+        }
+      ],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 896,
+      "panels": [
+        {
+          "class": "participant-list",
+          "height": 448,
+          "scrollHeight": 1062,
+          "scrollWidth": 360,
+          "width": 360
+        }
+      ],
+      "w": 414
+    },
+    {
+      "scenario": "people-panel-detail",
+      "collisions": [
+        {
+          "content": "table-vote-progress",
+          "seat": 6
+        },
+        {
+          "content": "table-vote-progress",
+          "seat": 7
+        }
+      ],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 932,
+      "panels": [
+        {
+          "class": "participant-list",
+          "height": 466,
+          "scrollHeight": 1062,
+          "scrollWidth": 376,
+          "width": 376
+        }
+      ],
+      "w": 430
+    },
+    {
+      "scenario": "people-panel-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 375,
+      "panels": [
+        {
+          "class": "participant-list",
+          "height": 188,
+          "scrollHeight": 882,
+          "scrollWidth": 613,
+          "width": 613
+        }
+      ],
+      "w": 667
+    },
+    {
+      "scenario": "people-panel-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 390,
+      "panels": [
+        {
+          "class": "participant-list",
+          "height": 195,
+          "scrollHeight": 702,
+          "scrollWidth": 790,
+          "width": 790
+        }
+      ],
+      "w": 844
+    },
+    {
+      "scenario": "people-panel-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 1024,
+      "panels": [
+        {
+          "class": "participant-list",
+          "height": 512,
+          "scrollHeight": 702,
+          "scrollWidth": 714,
+          "width": 714
+        }
+      ],
+      "w": 768
+    },
+    {
+      "scenario": "room-voting-detail-final",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 568,
+      "panels": [],
+      "w": 320
+    },
+    {
+      "scenario": "room-voting-detail-final",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 640,
+      "panels": [],
+      "w": 360
+    },
+    {
+      "scenario": "room-voting-detail-final",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 667,
+      "panels": [],
+      "w": 375
+    },
+    {
+      "scenario": "room-voting-detail-final",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 844,
+      "panels": [],
+      "w": 390
+    },
+    {
+      "scenario": "room-voting-detail-final",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 896,
+      "panels": [],
+      "w": 414
+    },
+    {
+      "scenario": "room-voting-detail-final",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 932,
+      "panels": [],
+      "w": 430
+    },
+    {
+      "scenario": "room-voting-detail-final",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 375,
+      "panels": [],
+      "w": 667
+    },
+    {
+      "scenario": "room-voting-detail-final",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 390,
+      "panels": [],
+      "w": 844
+    },
+    {
+      "scenario": "room-voting-detail-final",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 1024,
+      "panels": [],
+      "w": 768
+    },
+    {
+      "scenario": "tasks-expanded",
+      "h": 568,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی تسک"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 320
+    },
+    {
+      "scenario": "tasks-expanded",
+      "h": 640,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی تسک"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 360
+    },
+    {
+      "scenario": "tasks-expanded",
+      "h": 667,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی تسک"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 375
+    },
+    {
+      "scenario": "tasks-expanded",
+      "h": 844,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی تسک"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 390
+    },
+    {
+      "scenario": "tasks-expanded",
+      "h": 896,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی تسک"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 414
+    },
+    {
+      "scenario": "tasks-expanded",
+      "h": 932,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی تسک"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 430
+    },
+    {
+      "scenario": "tasks-expanded",
+      "h": 375,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی تسک"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 667
+    },
+    {
+      "scenario": "tasks-expanded",
+      "h": 390,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی تسک"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 844
+    },
+    {
+      "scenario": "tasks-expanded",
+      "h": 1024,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی تسک"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 768
+    },
+    {
+      "scenario": "tasks-panel-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 568,
+      "panels": [
+        {
+          "class": "task-list",
+          "height": 284,
+          "scrollHeight": 3951,
+          "scrollWidth": 271,
+          "width": 271
+        }
+      ],
+      "w": 320
+    },
+    {
+      "scenario": "tasks-panel-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 640,
+      "panels": [
+        {
+          "class": "task-list",
+          "height": 320,
+          "scrollHeight": 2907,
+          "scrollWidth": 311,
+          "width": 311
+        }
+      ],
+      "w": 360
+    },
+    {
+      "scenario": "tasks-panel-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 667,
+      "panels": [
+        {
+          "class": "task-list",
+          "height": 334,
+          "scrollHeight": 2595,
+          "scrollWidth": 326,
+          "width": 326
+        }
+      ],
+      "w": 375
+    },
+    {
+      "scenario": "tasks-panel-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 844,
+      "panels": [
+        {
+          "class": "task-list",
+          "height": 422,
+          "scrollHeight": 2595,
+          "scrollWidth": 341,
+          "width": 341
+        }
+      ],
+      "w": 390
+    },
+    {
+      "scenario": "tasks-panel-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 896,
+      "panels": [
+        {
+          "class": "task-list",
+          "height": 448,
+          "scrollHeight": 2283,
+          "scrollWidth": 365,
+          "width": 365
+        }
+      ],
+      "w": 414
+    },
+    {
+      "scenario": "tasks-panel-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 932,
+      "panels": [
+        {
+          "class": "task-list",
+          "height": 466,
+          "scrollHeight": 2283,
+          "scrollWidth": 381,
+          "width": 381
+        }
+      ],
+      "w": 430
+    },
+    {
+      "scenario": "tasks-panel-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 375,
+      "panels": [
+        {
+          "class": "task-list",
+          "height": 188,
+          "scrollHeight": 1971,
+          "scrollWidth": 618,
+          "width": 618
+        }
+      ],
+      "w": 667
+    },
+    {
+      "scenario": "tasks-panel-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 390,
+      "panels": [
+        {
+          "class": "task-list",
+          "height": 195,
+          "scrollHeight": 1971,
+          "scrollWidth": 795,
+          "width": 795
+        }
+      ],
+      "w": 844
+    },
+    {
+      "scenario": "tasks-panel-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 1024,
+      "panels": [
+        {
+          "class": "task-list",
+          "height": 512,
+          "scrollHeight": 1971,
+          "scrollWidth": 719,
+          "width": 719
+        }
+      ],
+      "w": 768
+    },
+    {
+      "scenario": "add-task",
+      "h": 568,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "عنوان تسک"
+        },
+        {
+          "font": "16px",
+          "label": "توضیحات تسک"
+        }
+      ],
+      "modal": {
+        "bottom": 508,
+        "height": 447,
+        "scrollable": false,
+        "top": 61
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 320
+    },
+    {
+      "scenario": "add-task",
+      "h": 640,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "عنوان تسک"
+        },
+        {
+          "font": "16px",
+          "label": "توضیحات تسک"
+        }
+      ],
+      "modal": {
+        "bottom": 544,
+        "height": 447,
+        "scrollable": false,
+        "top": 97
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 360
+    },
+    {
+      "scenario": "add-task",
+      "h": 667,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "عنوان تسک"
+        },
+        {
+          "font": "16px",
+          "label": "توضیحات تسک"
+        }
+      ],
+      "modal": {
+        "bottom": 557,
+        "height": 447,
+        "scrollable": false,
+        "top": 110
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 375
+    },
+    {
+      "scenario": "add-task",
+      "h": 844,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "عنوان تسک"
+        },
+        {
+          "font": "16px",
+          "label": "توضیحات تسک"
+        }
+      ],
+      "modal": {
+        "bottom": 646,
+        "height": 447,
+        "scrollable": false,
+        "top": 199
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 390
+    },
+    {
+      "scenario": "add-task",
+      "h": 896,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "عنوان تسک"
+        },
+        {
+          "font": "16px",
+          "label": "توضیحات تسک"
+        }
+      ],
+      "modal": {
+        "bottom": 672,
+        "height": 447,
+        "scrollable": false,
+        "top": 225
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 414
+    },
+    {
+      "scenario": "add-task",
+      "h": 932,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "عنوان تسک"
+        },
+        {
+          "font": "16px",
+          "label": "توضیحات تسک"
+        }
+      ],
+      "modal": {
+        "bottom": 690,
+        "height": 447,
+        "scrollable": false,
+        "top": 243
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 430
+    },
+    {
+      "scenario": "add-task",
+      "h": 375,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "عنوان تسک"
+        },
+        {
+          "font": "16px",
+          "label": "توضیحات تسک"
+        }
+      ],
+      "modal": {
+        "bottom": 363,
+        "height": 351,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 667
+    },
+    {
+      "scenario": "add-task",
+      "h": 390,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "عنوان تسک"
+        },
+        {
+          "font": "16px",
+          "label": "توضیحات تسک"
+        }
+      ],
+      "modal": {
+        "bottom": 378,
+        "height": 366,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 844
+    },
+    {
+      "scenario": "add-task",
+      "h": 1024,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "عنوان تسک"
+        },
+        {
+          "font": "16px",
+          "label": "توضیحات تسک"
+        }
+      ],
+      "modal": {
+        "bottom": 736,
+        "height": 447,
+        "scrollable": false,
+        "top": 289
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 768
+    },
+    {
+      "scenario": "add-task-short-viewport",
+      "h": 320,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "عنوان تسک"
+        },
+        {
+          "font": "16px",
+          "label": "توضیحات تسک"
+        }
+      ],
+      "modal": {
+        "bottom": 308,
+        "height": 296,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 320
+    },
+    {
+      "scenario": "add-task-short-viewport",
+      "h": 360,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "عنوان تسک"
+        },
+        {
+          "font": "16px",
+          "label": "توضیحات تسک"
+        }
+      ],
+      "modal": {
+        "bottom": 348,
+        "height": 336,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 390
+    },
+    {
+      "scenario": "task-details-long",
+      "h": 568,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 556,
+        "height": 544,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 320
+    },
+    {
+      "scenario": "task-details-long",
+      "h": 640,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 628,
+        "height": 616,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 360
+    },
+    {
+      "scenario": "task-details-long",
+      "h": 667,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 655,
+        "height": 643,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 375
+    },
+    {
+      "scenario": "task-details-long",
+      "h": 844,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 832,
+        "height": 820,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 390
+    },
+    {
+      "scenario": "task-details-long",
+      "h": 896,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 884,
+        "height": 872,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 414
+    },
+    {
+      "scenario": "task-details-long",
+      "h": 932,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 920,
+        "height": 908,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 430
+    },
+    {
+      "scenario": "task-details-long",
+      "h": 375,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 363,
+        "height": 351,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 667
+    },
+    {
+      "scenario": "task-details-long",
+      "h": 390,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 378,
+        "height": 366,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 844
+    },
+    {
+      "scenario": "task-details-long",
+      "h": 1024,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 1012,
+        "height": 1000,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 768
+    },
+    {
+      "scenario": "invite",
+      "h": 568,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "لینک دعوت"
+        }
+      ],
+      "modal": {
+        "bottom": 497,
+        "height": 425,
+        "scrollable": false,
+        "top": 72
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 320
+    },
+    {
+      "scenario": "invite",
+      "h": 640,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "لینک دعوت"
+        }
+      ],
+      "modal": {
+        "bottom": 533,
+        "height": 425,
+        "scrollable": false,
+        "top": 108
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 360
+    },
+    {
+      "scenario": "invite",
+      "h": 667,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "لینک دعوت"
+        }
+      ],
+      "modal": {
+        "bottom": 546,
+        "height": 425,
+        "scrollable": false,
+        "top": 121
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 375
+    },
+    {
+      "scenario": "invite",
+      "h": 844,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "لینک دعوت"
+        }
+      ],
+      "modal": {
+        "bottom": 635,
+        "height": 425,
+        "scrollable": false,
+        "top": 210
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 390
+    },
+    {
+      "scenario": "invite",
+      "h": 896,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "لینک دعوت"
+        }
+      ],
+      "modal": {
+        "bottom": 661,
+        "height": 425,
+        "scrollable": false,
+        "top": 236
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 414
+    },
+    {
+      "scenario": "invite",
+      "h": 932,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "لینک دعوت"
+        }
+      ],
+      "modal": {
+        "bottom": 679,
+        "height": 425,
+        "scrollable": false,
+        "top": 254
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 430
+    },
+    {
+      "scenario": "invite",
+      "h": 375,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "لینک دعوت"
+        }
+      ],
+      "modal": {
+        "bottom": 363,
+        "height": 351,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 667
+    },
+    {
+      "scenario": "invite",
+      "h": 390,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "لینک دعوت"
+        }
+      ],
+      "modal": {
+        "bottom": 378,
+        "height": 366,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 844
+    },
+    {
+      "scenario": "invite",
+      "h": 1024,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "لینک دعوت"
+        }
+      ],
+      "modal": {
+        "bottom": 725,
+        "height": 425,
+        "scrollable": false,
+        "top": 300
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 768
+    },
+    {
+      "scenario": "room-theme",
+      "h": 568,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 556,
+        "height": 544,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 320
+    },
+    {
+      "scenario": "room-theme",
+      "h": 640,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 628,
+        "height": 616,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 360
+    },
+    {
+      "scenario": "room-theme",
+      "h": 667,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 655,
+        "height": 643,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 375
+    },
+    {
+      "scenario": "room-theme",
+      "h": 844,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 773,
+        "height": 701,
+        "scrollable": false,
+        "top": 72
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 390
+    },
+    {
+      "scenario": "room-theme",
+      "h": 896,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 799,
+        "height": 701,
+        "scrollable": false,
+        "top": 98
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 414
+    },
+    {
+      "scenario": "room-theme",
+      "h": 932,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 725,
+        "height": 517,
+        "scrollable": false,
+        "top": 208
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 430
+    },
+    {
+      "scenario": "room-theme",
+      "h": 375,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 363,
+        "height": 351,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 667
+    },
+    {
+      "scenario": "room-theme",
+      "h": 390,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 378,
+        "height": 366,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 844
+    },
+    {
+      "scenario": "room-theme",
+      "h": 1024,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 771,
+        "height": 517,
+        "scrollable": false,
+        "top": 254
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 768
+    },
+    {
+      "scenario": "room-settings",
+      "h": 568,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 556,
+        "height": 544,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 320
+    },
+    {
+      "scenario": "room-settings",
+      "h": 640,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 628,
+        "height": 616,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 360
+    },
+    {
+      "scenario": "room-settings",
+      "h": 667,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 655,
+        "height": 643,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 375
+    },
+    {
+      "scenario": "room-settings",
+      "h": 844,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 832,
+        "height": 820,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 390
+    },
+    {
+      "scenario": "room-settings",
+      "h": 896,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 884,
+        "height": 872,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 414
+    },
+    {
+      "scenario": "room-settings",
+      "h": 932,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 859,
+        "height": 786,
+        "scrollable": false,
+        "top": 73
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 430
+    },
+    {
+      "scenario": "room-settings",
+      "h": 375,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 363,
+        "height": 351,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 667
+    },
+    {
+      "scenario": "room-settings",
+      "h": 390,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 378,
+        "height": 366,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 844
+    },
+    {
+      "scenario": "room-settings",
+      "h": 1024,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 905,
+        "height": 786,
+        "scrollable": false,
+        "top": 119
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 768
+    },
+    {
+      "scenario": "close-confirm",
+      "h": 568,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 401,
+        "height": 234,
+        "scrollable": false,
+        "top": 167
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 320
+    },
+    {
+      "scenario": "close-confirm",
+      "h": 640,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 437,
+        "height": 234,
+        "scrollable": false,
+        "top": 203
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 360
+    },
+    {
+      "scenario": "close-confirm",
+      "h": 667,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 451,
+        "height": 234,
+        "scrollable": false,
+        "top": 217
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 375
+    },
+    {
+      "scenario": "close-confirm",
+      "h": 844,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 539,
+        "height": 234,
+        "scrollable": false,
+        "top": 305
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 390
+    },
+    {
+      "scenario": "close-confirm",
+      "h": 896,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 565,
+        "height": 234,
+        "scrollable": false,
+        "top": 331
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 414
+    },
+    {
+      "scenario": "close-confirm",
+      "h": 932,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 583,
+        "height": 234,
+        "scrollable": false,
+        "top": 349
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 430
+    },
+    {
+      "scenario": "close-confirm",
+      "h": 375,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 305,
+        "height": 234,
+        "scrollable": false,
+        "top": 71
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 667
+    },
+    {
+      "scenario": "close-confirm",
+      "h": 390,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 312,
+        "height": 234,
+        "scrollable": false,
+        "top": 78
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 844
+    },
+    {
+      "scenario": "close-confirm",
+      "h": 1024,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 629,
+        "height": 234,
+        "scrollable": false,
+        "top": 395
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 768
+    },
+    {
+      "scenario": "help",
+      "h": 568,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 549,
+        "height": 529,
+        "scrollable": false,
+        "top": 20
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 320
+    },
+    {
+      "scenario": "help",
+      "h": 640,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 585,
+        "height": 529,
+        "scrollable": false,
+        "top": 56
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 360
+    },
+    {
+      "scenario": "help",
+      "h": 667,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 598,
+        "height": 529,
+        "scrollable": false,
+        "top": 69
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 375
+    },
+    {
+      "scenario": "help",
+      "h": 844,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 687,
+        "height": 529,
+        "scrollable": false,
+        "top": 158
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 390
+    },
+    {
+      "scenario": "help",
+      "h": 896,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 702,
+        "height": 507,
+        "scrollable": false,
+        "top": 195
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 414
+    },
+    {
+      "scenario": "help",
+      "h": 932,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 720,
+        "height": 507,
+        "scrollable": false,
+        "top": 213
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 430
+    },
+    {
+      "scenario": "help",
+      "h": 375,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 363,
+        "height": 351,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 667
+    },
+    {
+      "scenario": "help",
+      "h": 390,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 378,
+        "height": 366,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 844
+    },
+    {
+      "scenario": "help",
+      "h": 1024,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 755,
+        "height": 485,
+        "scrollable": false,
+        "top": 270
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 768
+    },
+    {
+      "scenario": "room-results",
+      "h": 568,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "012358132134"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 320
+    },
+    {
+      "scenario": "room-results",
+      "h": 640,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "012358132134"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 360
+    },
+    {
+      "scenario": "room-results",
+      "h": 667,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "012358132134"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 375
+    },
+    {
+      "scenario": "room-results",
+      "h": 844,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "012358132134"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 390
+    },
+    {
+      "scenario": "room-results",
+      "h": 896,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "012358132134"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 414
+    },
+    {
+      "scenario": "room-results",
+      "h": 932,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "012358132134"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 430
+    },
+    {
+      "scenario": "room-results",
+      "h": 375,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "012358132134"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 667
+    },
+    {
+      "scenario": "room-results",
+      "h": 390,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "012358132134"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 844
+    },
+    {
+      "scenario": "room-results",
+      "h": 1024,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "012358132134"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 768
+    },
+    {
+      "scenario": "room-results-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 568,
+      "panels": [],
+      "w": 320
+    },
+    {
+      "scenario": "room-results-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 640,
+      "panels": [],
+      "w": 360
+    },
+    {
+      "scenario": "room-results-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 667,
+      "panels": [],
+      "w": 375
+    },
+    {
+      "scenario": "room-results-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 844,
+      "panels": [],
+      "w": 390
+    },
+    {
+      "scenario": "room-results-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 896,
+      "panels": [],
+      "w": 414
+    },
+    {
+      "scenario": "room-results-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 932,
+      "panels": [],
+      "w": 430
+    },
+    {
+      "scenario": "room-results-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 375,
+      "panels": [],
+      "w": 667
+    },
+    {
+      "scenario": "room-results-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 390,
+      "panels": [],
+      "w": 844
+    },
+    {
+      "scenario": "room-results-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 1024,
+      "panels": [],
+      "w": 768
+    },
+    {
+      "scenario": "room-results-dark",
+      "h": 568,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "012358132134"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 320
+    },
+    {
+      "scenario": "room-results-dark",
+      "h": 640,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "012358132134"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 360
+    },
+    {
+      "scenario": "room-results-dark",
+      "h": 667,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "012358132134"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 375
+    },
+    {
+      "scenario": "room-results-dark",
+      "h": 844,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "012358132134"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 390
+    },
+    {
+      "scenario": "room-results-dark",
+      "h": 896,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "012358132134"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 414
+    },
+    {
+      "scenario": "room-results-dark",
+      "h": 932,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "012358132134"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 430
+    },
+    {
+      "scenario": "room-results-dark",
+      "h": 375,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "012358132134"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 667
+    },
+    {
+      "scenario": "room-results-dark",
+      "h": 390,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "012358132134"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 844
+    },
+    {
+      "scenario": "room-results-dark",
+      "h": 1024,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "012358132134"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 768
+    },
+    {
+      "scenario": "room-desktop",
+      "h": 768,
+      "inputFonts": [
+        {
+          "font": "11px",
+          "label": "012358132134"
+        },
+        {
+          "font": "11px",
+          "label": "جستجوی تسک"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [
+        {
+          "h": 43,
+          "label": "صفحه اصلی",
+          "w": 140
+        },
+        {
+          "h": 21,
+          "label": "جلسه‌های من",
+          "w": 102
+        },
+        {
+          "h": 21,
+          "label": "راهنما",
+          "w": 65
+        },
+        {
+          "h": 36,
+          "label": "تغییر حالت روشن و تیره",
+          "w": 42
+        },
+        {
+          "h": 30,
+          "label": "کتکاربر تست ریسپانسیو 1",
+          "w": 171
+        },
+        {
+          "h": 33,
+          "label": "بازگشت به جلسه‌ها",
+          "w": 33
+        },
+        {
+          "h": 39,
+          "label": "دعوت اعضا",
+          "w": 105
+        },
+        {
+          "h": 36,
+          "label": "خروجی جلسه",
+          "w": 36
+        },
+        {
+          "h": 36,
+          "label": "تغییر رنگ تم اتاق",
+          "w": 36
+        },
+        {
+          "h": 36,
+          "label": "تنظیمات جلسه",
+          "w": 36
+        },
+        {
+          "h": 24,
+          "label": "پلنینگ پوکر چطور کار می‌کند؟",
+          "w": 190
+        },
+        {
+          "h": 23,
+          "label": "مشاهده توضیحات",
+          "w": 87
+        },
+        {
+          "h": 32,
+          "label": "012358132134",
+          "w": 55
+        },
+        {
+          "h": 30,
+          "label": "ثبت",
+          "w": 60
+        },
+        {
+          "h": 59,
+          "label": "رأی 0",
+          "w": 43
+        },
+        {
+          "h": 59,
+          "label": "رأی 1",
+          "w": 43
+        },
+        {
+          "h": 59,
+          "label": "رأی 2",
+          "w": 43
+        },
+        {
+          "h": 59,
+          "label": "رأی 3",
+          "w": 43
+        },
+        {
+          "h": 59,
+          "label": "رأی 5",
+          "w": 43
+        },
+        {
+          "h": 59,
+          "label": "رأی 8",
+          "w": 43
+        },
+        {
+          "h": 59,
+          "label": "رأی 13",
+          "w": 43
+        },
+        {
+          "h": 59,
+          "label": "رأی 21",
+          "w": 43
+        },
+        {
+          "h": 59,
+          "label": "رأی 34",
+          "w": 43
+        },
+        {
+          "h": 59,
+          "label": "رأی ?",
+          "w": 43
+        },
+        {
+          "h": 59,
+          "label": "رأی ☕",
+          "w": 43
+        },
+        {
+          "h": 23,
+          "label": "شروع دوباره",
+          "w": 64
+        },
+        {
+          "h": 36,
+          "label": "دانلود تسک‌ها",
+          "w": 36
+        },
+        {
+          "h": 18,
+          "label": "جستجوی تسک",
+          "w": 173
+        },
+        {
+          "h": 40,
+          "label": "اضافه کردن تسک",
+          "w": 220
+        },
+        {
+          "h": 23,
+          "label": "راهنما",
+          "w": 42
+        }
+      ],
+      "smallTargetsCount": 30,
+      "w": 1024
+    },
+    {
+      "scenario": "room-desktop",
+      "h": 720,
+      "inputFonts": [
+        {
+          "font": "11px",
+          "label": "012358132134"
+        },
+        {
+          "font": "11px",
+          "label": "جستجوی تسک"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [
+        {
+          "h": 43,
+          "label": "صفحه اصلی",
+          "w": 140
+        },
+        {
+          "h": 21,
+          "label": "جلسه‌های من",
+          "w": 102
+        },
+        {
+          "h": 21,
+          "label": "راهنما",
+          "w": 65
+        },
+        {
+          "h": 36,
+          "label": "تغییر حالت روشن و تیره",
+          "w": 42
+        },
+        {
+          "h": 30,
+          "label": "کتکاربر تست ریسپانسیو 1",
+          "w": 171
+        },
+        {
+          "h": 33,
+          "label": "بازگشت به جلسه‌ها",
+          "w": 33
+        },
+        {
+          "h": 39,
+          "label": "دعوت اعضا",
+          "w": 105
+        },
+        {
+          "h": 36,
+          "label": "خروجی جلسه",
+          "w": 36
+        },
+        {
+          "h": 36,
+          "label": "تغییر رنگ تم اتاق",
+          "w": 36
+        },
+        {
+          "h": 36,
+          "label": "تنظیمات جلسه",
+          "w": 36
+        },
+        {
+          "h": 24,
+          "label": "پلنینگ پوکر چطور کار می‌کند؟",
+          "w": 225
+        },
+        {
+          "h": 23,
+          "label": "مشاهده توضیحات",
+          "w": 87
+        },
+        {
+          "h": 32,
+          "label": "012358132134",
+          "w": 55
+        },
+        {
+          "h": 30,
+          "label": "ثبت",
+          "w": 60
+        },
+        {
+          "h": 23,
+          "label": "شروع دوباره",
+          "w": 64
+        },
+        {
+          "h": 36,
+          "label": "دانلود تسک‌ها",
+          "w": 36
+        },
+        {
+          "h": 18,
+          "label": "جستجوی تسک",
+          "w": 208
+        },
+        {
+          "h": 40,
+          "label": "اضافه کردن تسک",
+          "w": 255
+        },
+        {
+          "h": 23,
+          "label": "راهنما",
+          "w": 42
+        }
+      ],
+      "smallTargetsCount": 19,
+      "w": 1280
+    },
+    {
+      "scenario": "room-desktop",
+      "h": 900,
+      "inputFonts": [
+        {
+          "font": "11px",
+          "label": "012358132134"
+        },
+        {
+          "font": "11px",
+          "label": "جستجوی تسک"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [
+        {
+          "h": 43,
+          "label": "صفحه اصلی",
+          "w": 140
+        },
+        {
+          "h": 21,
+          "label": "جلسه‌های من",
+          "w": 102
+        },
+        {
+          "h": 21,
+          "label": "راهنما",
+          "w": 65
+        },
+        {
+          "h": 36,
+          "label": "تغییر حالت روشن و تیره",
+          "w": 42
+        },
+        {
+          "h": 30,
+          "label": "کتکاربر تست ریسپانسیو 1",
+          "w": 171
+        },
+        {
+          "h": 33,
+          "label": "بازگشت به جلسه‌ها",
+          "w": 33
+        },
+        {
+          "h": 39,
+          "label": "دعوت اعضا",
+          "w": 105
+        },
+        {
+          "h": 36,
+          "label": "خروجی جلسه",
+          "w": 36
+        },
+        {
+          "h": 36,
+          "label": "تغییر رنگ تم اتاق",
+          "w": 36
+        },
+        {
+          "h": 36,
+          "label": "تنظیمات جلسه",
+          "w": 36
+        },
+        {
+          "h": 24,
+          "label": "پلنینگ پوکر چطور کار می‌کند؟",
+          "w": 225
+        },
+        {
+          "h": 24,
+          "label": "مشاهده توضیحات",
+          "w": 94
+        },
+        {
+          "h": 32,
+          "label": "012358132134",
+          "w": 55
+        },
+        {
+          "h": 30,
+          "label": "ثبت",
+          "w": 60
+        },
+        {
+          "h": 23,
+          "label": "شروع دوباره",
+          "w": 64
+        },
+        {
+          "h": 36,
+          "label": "دانلود تسک‌ها",
+          "w": 36
+        },
+        {
+          "h": 18,
+          "label": "جستجوی تسک",
+          "w": 208
+        },
+        {
+          "h": 40,
+          "label": "اضافه کردن تسک",
+          "w": 255
+        },
+        {
+          "h": 23,
+          "label": "راهنما",
+          "w": 42
+        }
+      ],
+      "smallTargetsCount": 19,
+      "w": 1440
+    },
+    {
+      "scenario": "room-desktop-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 768,
+      "panels": [
+        {
+          "class": "participant-list",
+          "height": 1868,
+          "scrollHeight": 1868,
+          "scrollWidth": 190,
+          "width": 190
+        },
+        {
+          "class": "task-list",
+          "height": 335,
+          "scrollHeight": 4335,
+          "scrollWidth": 210,
+          "width": 210
+        }
+      ],
+      "w": 1024
+    },
+    {
+      "scenario": "room-desktop-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 720,
+      "panels": [
+        {
+          "class": "participant-list",
+          "height": 1868,
+          "scrollHeight": 1868,
+          "scrollWidth": 225,
+          "width": 225
+        },
+        {
+          "class": "task-list",
+          "height": 335,
+          "scrollHeight": 3783,
+          "scrollWidth": 245,
+          "width": 245
+        }
+      ],
+      "w": 1280
+    },
+    {
+      "scenario": "room-desktop-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 900,
+      "panels": [
+        {
+          "class": "participant-list",
+          "height": 1606,
+          "scrollHeight": 1606,
+          "scrollWidth": 225,
+          "width": 225
+        },
+        {
+          "class": "task-list",
+          "height": 470,
+          "scrollHeight": 3735,
+          "scrollWidth": 245,
+          "width": 245
+        }
+      ],
+      "w": 1440
+    },
+    {
+      "scenario": "room-desktop-final",
+      "h": 768,
+      "inputFonts": [
+        {
+          "font": "11px",
+          "label": "012358132134"
+        },
+        {
+          "font": "11px",
+          "label": "جستجوی تسک"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [
+        {
+          "h": 43,
+          "label": "صفحه اصلی",
+          "w": 140
+        },
+        {
+          "h": 21,
+          "label": "جلسه‌های من",
+          "w": 102
+        },
+        {
+          "h": 21,
+          "label": "راهنما",
+          "w": 65
+        },
+        {
+          "h": 36,
+          "label": "تغییر حالت روشن و تیره",
+          "w": 42
+        },
+        {
+          "h": 30,
+          "label": "کتکاربر تست ریسپانسیو 1",
+          "w": 171
+        },
+        {
+          "h": 33,
+          "label": "بازگشت به جلسه‌ها",
+          "w": 33
+        },
+        {
+          "h": 39,
+          "label": "دعوت اعضا",
+          "w": 105
+        },
+        {
+          "h": 36,
+          "label": "خروجی جلسه",
+          "w": 36
+        },
+        {
+          "h": 36,
+          "label": "تغییر رنگ تم اتاق",
+          "w": 36
+        },
+        {
+          "h": 36,
+          "label": "تنظیمات جلسه",
+          "w": 36
+        },
+        {
+          "h": 24,
+          "label": "پلنینگ پوکر چطور کار می‌کند؟",
+          "w": 190
+        },
+        {
+          "h": 23,
+          "label": "مشاهده توضیحات",
+          "w": 87
+        },
+        {
+          "h": 32,
+          "label": "012358132134",
+          "w": 55
+        },
+        {
+          "h": 30,
+          "label": "ثبت",
+          "w": 60
+        },
+        {
+          "h": 59,
+          "label": "رأی 0",
+          "w": 43
+        },
+        {
+          "h": 59,
+          "label": "رأی 1",
+          "w": 43
+        },
+        {
+          "h": 59,
+          "label": "رأی 2",
+          "w": 43
+        },
+        {
+          "h": 59,
+          "label": "رأی 3",
+          "w": 43
+        },
+        {
+          "h": 59,
+          "label": "رأی 5",
+          "w": 43
+        },
+        {
+          "h": 59,
+          "label": "رأی 8",
+          "w": 43
+        },
+        {
+          "h": 59,
+          "label": "رأی 13",
+          "w": 43
+        },
+        {
+          "h": 59,
+          "label": "رأی 21",
+          "w": 43
+        },
+        {
+          "h": 59,
+          "label": "رأی 34",
+          "w": 43
+        },
+        {
+          "h": 59,
+          "label": "رأی ?",
+          "w": 43
+        },
+        {
+          "h": 59,
+          "label": "رأی ☕",
+          "w": 43
+        },
+        {
+          "h": 23,
+          "label": "شروع دوباره",
+          "w": 64
+        },
+        {
+          "h": 36,
+          "label": "دانلود تسک‌ها",
+          "w": 36
+        },
+        {
+          "h": 18,
+          "label": "جستجوی تسک",
+          "w": 173
+        },
+        {
+          "h": 40,
+          "label": "اضافه کردن تسک",
+          "w": 220
+        },
+        {
+          "h": 23,
+          "label": "راهنما",
+          "w": 42
+        }
+      ],
+      "smallTargetsCount": 30,
+      "w": 1024
+    },
+    {
+      "scenario": "room-desktop-final",
+      "h": 720,
+      "inputFonts": [
+        {
+          "font": "11px",
+          "label": "012358132134"
+        },
+        {
+          "font": "11px",
+          "label": "جستجوی تسک"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [
+        {
+          "h": 43,
+          "label": "صفحه اصلی",
+          "w": 140
+        },
+        {
+          "h": 21,
+          "label": "جلسه‌های من",
+          "w": 102
+        },
+        {
+          "h": 21,
+          "label": "راهنما",
+          "w": 65
+        },
+        {
+          "h": 36,
+          "label": "تغییر حالت روشن و تیره",
+          "w": 42
+        },
+        {
+          "h": 30,
+          "label": "کتکاربر تست ریسپانسیو 1",
+          "w": 171
+        },
+        {
+          "h": 33,
+          "label": "بازگشت به جلسه‌ها",
+          "w": 33
+        },
+        {
+          "h": 39,
+          "label": "دعوت اعضا",
+          "w": 105
+        },
+        {
+          "h": 36,
+          "label": "خروجی جلسه",
+          "w": 36
+        },
+        {
+          "h": 36,
+          "label": "تغییر رنگ تم اتاق",
+          "w": 36
+        },
+        {
+          "h": 36,
+          "label": "تنظیمات جلسه",
+          "w": 36
+        },
+        {
+          "h": 24,
+          "label": "پلنینگ پوکر چطور کار می‌کند؟",
+          "w": 225
+        },
+        {
+          "h": 23,
+          "label": "مشاهده توضیحات",
+          "w": 87
+        },
+        {
+          "h": 32,
+          "label": "012358132134",
+          "w": 55
+        },
+        {
+          "h": 30,
+          "label": "ثبت",
+          "w": 60
+        },
+        {
+          "h": 23,
+          "label": "شروع دوباره",
+          "w": 64
+        },
+        {
+          "h": 36,
+          "label": "دانلود تسک‌ها",
+          "w": 36
+        },
+        {
+          "h": 18,
+          "label": "جستجوی تسک",
+          "w": 208
+        },
+        {
+          "h": 40,
+          "label": "اضافه کردن تسک",
+          "w": 255
+        },
+        {
+          "h": 23,
+          "label": "راهنما",
+          "w": 42
+        }
+      ],
+      "smallTargetsCount": 19,
+      "w": 1280
+    },
+    {
+      "scenario": "room-desktop-final",
+      "h": 900,
+      "inputFonts": [
+        {
+          "font": "11px",
+          "label": "012358132134"
+        },
+        {
+          "font": "11px",
+          "label": "جستجوی تسک"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [
+        {
+          "h": 43,
+          "label": "صفحه اصلی",
+          "w": 140
+        },
+        {
+          "h": 21,
+          "label": "جلسه‌های من",
+          "w": 102
+        },
+        {
+          "h": 21,
+          "label": "راهنما",
+          "w": 65
+        },
+        {
+          "h": 36,
+          "label": "تغییر حالت روشن و تیره",
+          "w": 42
+        },
+        {
+          "h": 30,
+          "label": "کتکاربر تست ریسپانسیو 1",
+          "w": 171
+        },
+        {
+          "h": 33,
+          "label": "بازگشت به جلسه‌ها",
+          "w": 33
+        },
+        {
+          "h": 39,
+          "label": "دعوت اعضا",
+          "w": 105
+        },
+        {
+          "h": 36,
+          "label": "خروجی جلسه",
+          "w": 36
+        },
+        {
+          "h": 36,
+          "label": "تغییر رنگ تم اتاق",
+          "w": 36
+        },
+        {
+          "h": 36,
+          "label": "تنظیمات جلسه",
+          "w": 36
+        },
+        {
+          "h": 24,
+          "label": "پلنینگ پوکر چطور کار می‌کند؟",
+          "w": 225
+        },
+        {
+          "h": 24,
+          "label": "مشاهده توضیحات",
+          "w": 94
+        },
+        {
+          "h": 32,
+          "label": "012358132134",
+          "w": 55
+        },
+        {
+          "h": 30,
+          "label": "ثبت",
+          "w": 60
+        },
+        {
+          "h": 23,
+          "label": "شروع دوباره",
+          "w": 64
+        },
+        {
+          "h": 36,
+          "label": "دانلود تسک‌ها",
+          "w": 36
+        },
+        {
+          "h": 18,
+          "label": "جستجوی تسک",
+          "w": 208
+        },
+        {
+          "h": 40,
+          "label": "اضافه کردن تسک",
+          "w": 255
+        },
+        {
+          "h": 23,
+          "label": "راهنما",
+          "w": 42
+        }
+      ],
+      "smallTargetsCount": 19,
+      "w": 1440
+    },
+    {
+      "scenario": "room-desktop-detail-final",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 768,
+      "panels": [
+        {
+          "class": "participant-list",
+          "height": 538,
+          "scrollHeight": 1272,
+          "scrollWidth": 175,
+          "width": 175
+        },
+        {
+          "class": "task-list",
+          "height": 335,
+          "scrollHeight": 4335,
+          "scrollWidth": 210,
+          "width": 210
+        }
+      ],
+      "w": 1024
+    },
+    {
+      "scenario": "room-desktop-detail-final",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 720,
+      "panels": [
+        {
+          "class": "participant-list",
+          "height": 490,
+          "scrollHeight": 1272,
+          "scrollWidth": 210,
+          "width": 210
+        },
+        {
+          "class": "task-list",
+          "height": 335,
+          "scrollHeight": 3783,
+          "scrollWidth": 245,
+          "width": 245
+        }
+      ],
+      "w": 1280
+    },
+    {
+      "scenario": "room-desktop-detail-final",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 900,
+      "panels": [
+        {
+          "class": "participant-list",
+          "height": 670,
+          "scrollHeight": 1372,
+          "scrollWidth": 210,
+          "width": 210
+        },
+        {
+          "class": "task-list",
+          "height": 470,
+          "scrollHeight": 3735,
+          "scrollWidth": 245,
+          "width": 245
+        }
+      ],
+      "w": 1440
+    },
+    {
+      "scenario": "room-breakpoints",
+      "h": 740,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "012358132134"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 359
+    },
+    {
+      "scenario": "room-breakpoints",
+      "h": 800,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "012358132134"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 599
+    },
+    {
+      "scenario": "room-breakpoints",
+      "h": 800,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "012358132134"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 600
+    },
+    {
+      "scenario": "room-breakpoints",
+      "h": 900,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "012358132134"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 760
+    },
+    {
+      "scenario": "room-breakpoints",
+      "h": 900,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "012358132134"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 761
+    },
+    {
+      "scenario": "room-breakpoints",
+      "h": 768,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "012358132134"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 1023
+    },
+    {
+      "scenario": "room-breakpoints-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 740,
+      "panels": [],
+      "w": 359
+    },
+    {
+      "scenario": "room-breakpoints-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 800,
+      "panels": [],
+      "w": 599
+    },
+    {
+      "scenario": "room-breakpoints-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 800,
+      "panels": [],
+      "w": 600
+    },
+    {
+      "scenario": "room-breakpoints-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 900,
+      "panels": [],
+      "w": 760
+    },
+    {
+      "scenario": "room-breakpoints-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 900,
+      "panels": [],
+      "w": 761
+    },
+    {
+      "scenario": "room-breakpoints-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 768,
+      "panels": [],
+      "w": 1023
+    },
+    {
+      "scenario": "room-completed",
+      "h": 568,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 320
+    },
+    {
+      "scenario": "room-completed",
+      "h": 640,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 360
+    },
+    {
+      "scenario": "room-completed",
+      "h": 667,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 375
+    },
+    {
+      "scenario": "room-completed",
+      "h": 844,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 390
+    },
+    {
+      "scenario": "room-completed",
+      "h": 896,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 414
+    },
+    {
+      "scenario": "room-completed",
+      "h": 932,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 430
+    },
+    {
+      "scenario": "room-completed",
+      "h": 375,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 667
+    },
+    {
+      "scenario": "room-completed",
+      "h": 390,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 844
+    },
+    {
+      "scenario": "room-completed",
+      "h": 1024,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 768
+    },
+    {
+      "scenario": "desktop-voting-final",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 768,
+      "panels": [
+        {
+          "class": "participant-list",
+          "height": 538,
+          "scrollHeight": 1868,
+          "scrollWidth": 175,
+          "width": 175
+        },
+        {
+          "class": "task-list",
+          "height": 335,
+          "scrollHeight": 4341,
+          "scrollWidth": 210,
+          "width": 210
+        }
+      ],
+      "w": 1024
+    },
+    {
+      "scenario": "desktop-voting-final",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 720,
+      "panels": [
+        {
+          "class": "participant-list",
+          "height": 490,
+          "scrollHeight": 1868,
+          "scrollWidth": 210,
+          "width": 210
+        },
+        {
+          "class": "task-list",
+          "height": 335,
+          "scrollHeight": 3789,
+          "scrollWidth": 245,
+          "width": 245
+        }
+      ],
+      "w": 1280
+    },
+    {
+      "scenario": "desktop-voting-final",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 900,
+      "panels": [
+        {
+          "class": "participant-list",
+          "height": 670,
+          "scrollHeight": 1606,
+          "scrollWidth": 210,
+          "width": 210
+        },
+        {
+          "class": "task-list",
+          "height": 470,
+          "scrollHeight": 3741,
+          "scrollWidth": 245,
+          "width": 245
+        }
+      ],
+      "w": 1440
+    },
+    {
+      "scenario": "room-voting-latest",
+      "h": 568,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 320
+    },
+    {
+      "scenario": "room-voting-latest",
+      "h": 640,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 360
+    },
+    {
+      "scenario": "room-voting-latest",
+      "h": 667,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 375
+    },
+    {
+      "scenario": "room-voting-latest",
+      "h": 844,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 390
+    },
+    {
+      "scenario": "room-voting-latest",
+      "h": 896,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 414
+    },
+    {
+      "scenario": "room-voting-latest",
+      "h": 932,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 430
+    },
+    {
+      "scenario": "room-voting-latest",
+      "h": 375,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 667
+    },
+    {
+      "scenario": "room-voting-latest",
+      "h": 390,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 844
+    },
+    {
+      "scenario": "room-voting-latest",
+      "h": 1024,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 768
+    },
+    {
+      "scenario": "room-voting-latest-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 568,
+      "panels": [],
+      "w": 320
+    },
+    {
+      "scenario": "room-voting-latest-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 640,
+      "panels": [],
+      "w": 360
+    },
+    {
+      "scenario": "room-voting-latest-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 667,
+      "panels": [],
+      "w": 375
+    },
+    {
+      "scenario": "room-voting-latest-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 844,
+      "panels": [],
+      "w": 390
+    },
+    {
+      "scenario": "room-voting-latest-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 896,
+      "panels": [],
+      "w": 414
+    },
+    {
+      "scenario": "room-voting-latest-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 932,
+      "panels": [],
+      "w": 430
+    },
+    {
+      "scenario": "room-voting-latest-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 375,
+      "panels": [],
+      "w": 667
+    },
+    {
+      "scenario": "room-voting-latest-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 390,
+      "panels": [],
+      "w": 844
+    },
+    {
+      "scenario": "room-voting-latest-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 1024,
+      "panels": [],
+      "w": 768
+    },
+    {
+      "scenario": "theme-بنفش",
+      "h": 568,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 556,
+        "height": 544,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 320
+    },
+    {
+      "scenario": "theme-بنفش",
+      "h": 390,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 378,
+        "height": 366,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 844
+    },
+    {
+      "scenario": "theme-صورتی",
+      "h": 568,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 556,
+        "height": 544,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 320
+    },
+    {
+      "scenario": "theme-صورتی",
+      "h": 390,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 378,
+        "height": 366,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 844
+    },
+    {
+      "scenario": "theme-آبی",
+      "h": 568,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 556,
+        "height": 544,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 320
+    },
+    {
+      "scenario": "theme-آبی",
+      "h": 390,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 378,
+        "height": 366,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 844
+    },
+    {
+      "scenario": "theme-سبز نعنایی",
+      "h": 568,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 556,
+        "height": 544,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 320
+    },
+    {
+      "scenario": "theme-سبز نعنایی",
+      "h": 390,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 378,
+        "height": 366,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 844
+    },
+    {
+      "scenario": "theme-کهربایی",
+      "h": 568,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 556,
+        "height": 544,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 320
+    },
+    {
+      "scenario": "theme-کهربایی",
+      "h": 390,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 378,
+        "height": 366,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 844
+    },
+    {
+      "scenario": "theme-مرجانی",
+      "h": 568,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 556,
+        "height": 544,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 320
+    },
+    {
+      "scenario": "theme-مرجانی",
+      "h": 390,
+      "inputFonts": [],
+      "modal": {
+        "bottom": 378,
+        "height": 366,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 844
+    },
+    {
+      "scenario": "room-closed",
+      "h": 568,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 320
+    },
+    {
+      "scenario": "room-closed",
+      "h": 640,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 360
+    },
+    {
+      "scenario": "room-closed",
+      "h": 667,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 375
+    },
+    {
+      "scenario": "room-closed",
+      "h": 844,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 390
+    },
+    {
+      "scenario": "room-closed",
+      "h": 896,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 414
+    },
+    {
+      "scenario": "room-closed",
+      "h": 932,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 430
+    },
+    {
+      "scenario": "room-closed",
+      "h": 375,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 667
+    },
+    {
+      "scenario": "room-closed",
+      "h": 390,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 844
+    },
+    {
+      "scenario": "room-closed",
+      "h": 1024,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 768
+    },
+    {
+      "scenario": "room-closed-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 568,
+      "panels": [],
+      "w": 320
+    },
+    {
+      "scenario": "room-closed-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 640,
+      "panels": [],
+      "w": 360
+    },
+    {
+      "scenario": "room-closed-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 667,
+      "panels": [],
+      "w": 375
+    },
+    {
+      "scenario": "room-closed-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 844,
+      "panels": [],
+      "w": 390
+    },
+    {
+      "scenario": "room-closed-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 896,
+      "panels": [],
+      "w": 414
+    },
+    {
+      "scenario": "room-closed-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 932,
+      "panels": [],
+      "w": 430
+    },
+    {
+      "scenario": "room-closed-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 375,
+      "panels": [],
+      "w": 667
+    },
+    {
+      "scenario": "room-closed-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 390,
+      "panels": [],
+      "w": 844
+    },
+    {
+      "scenario": "room-closed-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 11,
+        "total": 11
+      },
+      "h": 1024,
+      "panels": [],
+      "w": 768
+    },
+    {
+      "scenario": "dashboard-final",
+      "h": 568,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی جلسه"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 320
+    },
+    {
+      "scenario": "dashboard-final",
+      "h": 640,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی جلسه"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 360
+    },
+    {
+      "scenario": "dashboard-final",
+      "h": 667,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی جلسه"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 375
+    },
+    {
+      "scenario": "dashboard-final",
+      "h": 844,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی جلسه"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 390
+    },
+    {
+      "scenario": "dashboard-final",
+      "h": 896,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی جلسه"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 414
+    },
+    {
+      "scenario": "dashboard-final",
+      "h": 932,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی جلسه"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 430
+    },
+    {
+      "scenario": "dashboard-final",
+      "h": 375,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی جلسه"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 667
+    },
+    {
+      "scenario": "dashboard-final",
+      "h": 390,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی جلسه"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 844
+    },
+    {
+      "scenario": "dashboard-final",
+      "h": 1024,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی جلسه"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 768
+    },
+    {
+      "scenario": "dashboard-history",
+      "h": 568,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی جلسه"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 320
+    },
+    {
+      "scenario": "dashboard-history",
+      "h": 640,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی جلسه"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 360
+    },
+    {
+      "scenario": "dashboard-history",
+      "h": 667,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی جلسه"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 375
+    },
+    {
+      "scenario": "dashboard-history",
+      "h": 844,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی جلسه"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 390
+    },
+    {
+      "scenario": "dashboard-history",
+      "h": 896,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی جلسه"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 414
+    },
+    {
+      "scenario": "dashboard-history",
+      "h": 932,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی جلسه"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 430
+    },
+    {
+      "scenario": "dashboard-history",
+      "h": 375,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی جلسه"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 667
+    },
+    {
+      "scenario": "dashboard-history",
+      "h": 390,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی جلسه"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 844
+    },
+    {
+      "scenario": "dashboard-history",
+      "h": 1024,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی جلسه"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 768
+    },
+    {
+      "scenario": "tshirt-empty-room",
+      "h": 568,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 320
+    },
+    {
+      "scenario": "tshirt-empty-room",
+      "h": 640,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 360
+    },
+    {
+      "scenario": "tshirt-empty-room",
+      "h": 667,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 375
+    },
+    {
+      "scenario": "tshirt-empty-room",
+      "h": 844,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 390
+    },
+    {
+      "scenario": "tshirt-empty-room",
+      "h": 896,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 414
+    },
+    {
+      "scenario": "tshirt-empty-room",
+      "h": 932,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 430
+    },
+    {
+      "scenario": "tshirt-empty-room",
+      "h": 375,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 667
+    },
+    {
+      "scenario": "tshirt-empty-room",
+      "h": 390,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 844
+    },
+    {
+      "scenario": "tshirt-empty-room",
+      "h": 1024,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 768
+    },
+    {
+      "scenario": "tshirt-empty-room-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 7,
+        "total": 7
+      },
+      "h": 568,
+      "panels": [],
+      "w": 320
+    },
+    {
+      "scenario": "tshirt-empty-room-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 7,
+        "total": 7
+      },
+      "h": 640,
+      "panels": [],
+      "w": 360
+    },
+    {
+      "scenario": "tshirt-empty-room-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 7,
+        "total": 7
+      },
+      "h": 667,
+      "panels": [],
+      "w": 375
+    },
+    {
+      "scenario": "tshirt-empty-room-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 7,
+        "total": 7
+      },
+      "h": 844,
+      "panels": [],
+      "w": 390
+    },
+    {
+      "scenario": "tshirt-empty-room-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 7,
+        "total": 7
+      },
+      "h": 896,
+      "panels": [],
+      "w": 414
+    },
+    {
+      "scenario": "tshirt-empty-room-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 7,
+        "total": 7
+      },
+      "h": 932,
+      "panels": [],
+      "w": 430
+    },
+    {
+      "scenario": "tshirt-empty-room-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 7,
+        "total": 7
+      },
+      "h": 375,
+      "panels": [],
+      "w": 667
+    },
+    {
+      "scenario": "tshirt-empty-room-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 7,
+        "total": 7
+      },
+      "h": 390,
+      "panels": [],
+      "w": 844
+    },
+    {
+      "scenario": "tshirt-empty-room-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 7,
+        "total": 7
+      },
+      "h": 1024,
+      "panels": [],
+      "w": 768
+    },
+    {
+      "scenario": "tshirt-voting",
+      "h": 568,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 320
+    },
+    {
+      "scenario": "tshirt-voting",
+      "h": 640,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 360
+    },
+    {
+      "scenario": "tshirt-voting",
+      "h": 667,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 375
+    },
+    {
+      "scenario": "tshirt-voting",
+      "h": 844,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 390
+    },
+    {
+      "scenario": "tshirt-voting",
+      "h": 896,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 414
+    },
+    {
+      "scenario": "tshirt-voting",
+      "h": 932,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 430
+    },
+    {
+      "scenario": "tshirt-voting",
+      "h": 375,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 667
+    },
+    {
+      "scenario": "tshirt-voting",
+      "h": 390,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 844
+    },
+    {
+      "scenario": "tshirt-voting",
+      "h": 1024,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 768
+    },
+    {
+      "scenario": "tshirt-results",
+      "h": 568,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "XSSMLXL"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 320
+    },
+    {
+      "scenario": "tshirt-results",
+      "h": 640,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "XSSMLXL"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 360
+    },
+    {
+      "scenario": "tshirt-results",
+      "h": 667,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "XSSMLXL"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 375
+    },
+    {
+      "scenario": "tshirt-results",
+      "h": 844,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "XSSMLXL"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 390
+    },
+    {
+      "scenario": "tshirt-results",
+      "h": 896,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "XSSMLXL"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 414
+    },
+    {
+      "scenario": "tshirt-results",
+      "h": 932,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "XSSMLXL"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 430
+    },
+    {
+      "scenario": "tshirt-results",
+      "h": 375,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "XSSMLXL"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 667
+    },
+    {
+      "scenario": "tshirt-results",
+      "h": 390,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "XSSMLXL"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 844
+    },
+    {
+      "scenario": "tshirt-results",
+      "h": 1024,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "XSSMLXL"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 768
+    },
+    {
+      "scenario": "tshirt-results-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 7,
+        "total": 7
+      },
+      "h": 568,
+      "panels": [],
+      "w": 320
+    },
+    {
+      "scenario": "tshirt-results-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 7,
+        "total": 7
+      },
+      "h": 640,
+      "panels": [],
+      "w": 360
+    },
+    {
+      "scenario": "tshirt-results-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 7,
+        "total": 7
+      },
+      "h": 667,
+      "panels": [],
+      "w": 375
+    },
+    {
+      "scenario": "tshirt-results-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 7,
+        "total": 7
+      },
+      "h": 844,
+      "panels": [],
+      "w": 390
+    },
+    {
+      "scenario": "tshirt-results-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 7,
+        "total": 7
+      },
+      "h": 896,
+      "panels": [],
+      "w": 414
+    },
+    {
+      "scenario": "tshirt-results-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 7,
+        "total": 7
+      },
+      "h": 932,
+      "panels": [],
+      "w": 430
+    },
+    {
+      "scenario": "tshirt-results-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 7,
+        "total": 7
+      },
+      "h": 375,
+      "panels": [],
+      "w": 667
+    },
+    {
+      "scenario": "tshirt-results-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 7,
+        "total": 7
+      },
+      "h": 390,
+      "panels": [],
+      "w": 844
+    },
+    {
+      "scenario": "tshirt-results-detail",
+      "collisions": [],
+      "deck": {
+        "inside": 7,
+        "total": 7
+      },
+      "h": 1024,
+      "panels": [],
+      "w": 768
+    },
+    {
+      "scenario": "final-build-room",
+      "h": 568,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "XSSMLXL"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 320
+    },
+    {
+      "scenario": "final-build-room",
+      "h": 640,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "XSSMLXL"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 360
+    },
+    {
+      "scenario": "final-build-room",
+      "h": 667,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "XSSMLXL"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 375
+    },
+    {
+      "scenario": "final-build-room",
+      "h": 844,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "XSSMLXL"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 390
+    },
+    {
+      "scenario": "final-build-room",
+      "h": 896,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "XSSMLXL"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 414
+    },
+    {
+      "scenario": "final-build-room",
+      "h": 932,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "XSSMLXL"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 430
+    },
+    {
+      "scenario": "final-build-room",
+      "h": 375,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "XSSMLXL"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 667
+    },
+    {
+      "scenario": "final-build-room",
+      "h": 390,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "XSSMLXL"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 844
+    },
+    {
+      "scenario": "final-build-room",
+      "h": 1024,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "XSSMLXL"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 768
+    },
+    {
+      "scenario": "final-build-dashboard",
+      "h": 568,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی جلسه"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 320
+    },
+    {
+      "scenario": "final-build-dashboard",
+      "h": 640,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی جلسه"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 360
+    },
+    {
+      "scenario": "final-build-dashboard",
+      "h": 667,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی جلسه"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 375
+    },
+    {
+      "scenario": "final-build-dashboard",
+      "h": 844,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی جلسه"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 390
+    },
+    {
+      "scenario": "final-build-dashboard",
+      "h": 896,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی جلسه"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 414
+    },
+    {
+      "scenario": "final-build-dashboard",
+      "h": 932,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی جلسه"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 430
+    },
+    {
+      "scenario": "final-build-dashboard",
+      "h": 375,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی جلسه"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 667
+    },
+    {
+      "scenario": "final-build-dashboard",
+      "h": 390,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی جلسه"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 844
+    },
+    {
+      "scenario": "final-build-dashboard",
+      "h": 1024,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "جستجوی جلسه"
+        }
+      ],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 768
+    },
+    {
+      "scenario": "landing-final-anonymous",
+      "h": 568,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 320
+    },
+    {
+      "scenario": "landing-final-anonymous",
+      "h": 640,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 360
+    },
+    {
+      "scenario": "landing-final-anonymous",
+      "h": 667,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 375
+    },
+    {
+      "scenario": "landing-final-anonymous",
+      "h": 844,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 390
+    },
+    {
+      "scenario": "landing-final-anonymous",
+      "h": 896,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 414
+    },
+    {
+      "scenario": "landing-final-anonymous",
+      "h": 932,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 430
+    },
+    {
+      "scenario": "landing-final-anonymous",
+      "h": 375,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 667
+    },
+    {
+      "scenario": "landing-final-anonymous",
+      "h": 390,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 844
+    },
+    {
+      "scenario": "landing-final-anonymous",
+      "h": 1024,
+      "inputFonts": [],
+      "modal": null,
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 768
+    },
+    {
+      "scenario": "login-final-build",
+      "h": 320,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "شماره موبایل"
+        }
+      ],
+      "modal": {
+        "bottom": 308,
+        "height": 296,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 320
+    },
+    {
+      "scenario": "login-final-build",
+      "h": 844,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "شماره موبایل"
+        }
+      ],
+      "modal": {
+        "bottom": 641,
+        "height": 439,
+        "scrollable": false,
+        "top": 203
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 390
+    },
+    {
+      "scenario": "login-final-build",
+      "h": 390,
+      "inputFonts": [
+        {
+          "font": "16px",
+          "label": "شماره موبایل"
+        }
+      ],
+      "modal": {
+        "bottom": 378,
+        "height": 366,
+        "scrollable": true,
+        "top": 12
+      },
+      "outside": [],
+      "pageOverflow": 0,
+      "rootFont": "Vazir, sans-serif",
+      "smallTargets": [],
+      "smallTargetsCount": 0,
+      "w": 844
+    }
+  ]
+}

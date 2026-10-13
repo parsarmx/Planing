@@ -1,0 +1,28 @@
+environment: development
+server:
+  host: 0.0.0.0
+  port: "8080"
+  frontend_path: ../../frontend/dist
+  allowed_origins:
+    - http://localhost:8080
+    - http://127.0.0.1:8080
+    - http://192.168.15.87:8080
+    - http://localhost:5173
+    - http://127.0.0.1:5173
+    - http://192.168.15.87:5173
+  secure_cookies: false
+db:
+  host: 127.0.0.1
+  port: "55432"
+  user: poker
+  password: local-poker-password
+  dbname: poker
+  sslmode: disable
+  max_conns: 20
+  min_conns: 1
+sms:
+  webhook_url: ""
+  webhook_token: ""
+realtime:
+  idle_timeout: 24h
+  heartbeat: 10s

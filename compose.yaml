@@ -1,0 +1,48 @@
+services:
+  app:
+    build: .
+    image: planning-poker-local:dev
+    ports:
+      - "0.0.0.0:8080:8080"
+    environment: &app_environment
+      APP_ENV: ${APP_ENV:-development}
+      DATABASE_URL: ${DATABASE_URL:-postgres://poker:${POSTGRES_PASSWORD:-local-poker-password}@postgres:5432/poker?sslmode=disable}
+      ALLOWED_ORIGINS: ${ALLOWED_ORIGINS:-http://localhost:8080,http://127.0.0.1:8080,http://192.168.15.87:8080,http://localhost:5173,http://127.0.0.1:5173,http://192.168.15.87:5173}
+      COOKIE_SECURE: ${COOKIE_SECURE:-false}
+      SMS_WEBHOOK_URL: ${SMS_WEBHOOK_URL:-}
+      SMS_WEBHOOK_TOKEN: ${SMS_WEBHOOK_TOKEN:-}
+    depends_on:
+      postgres:
+        condition: service_healthy
+      migrate:
+        condition: service_completed_successfully
+    init: true
+    stop_grace_period: 20s
+    restart: unless-stopped
+  migrate:
+    build: .
+    image: planning-poker-local:dev
+    command: ["/app/poker", "pg_migrate"]
+    environment: *app_environment
+    depends_on:
+      postgres:
+        condition: service_healthy
+    restart: "no"
+  postgres:
+    image: postgres:17-alpine
+    environment:
+      POSTGRES_USER: poker
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-local-poker-password}
+      POSTGRES_DB: poker
+    ports:
+      - "127.0.0.1:55432:5432"
+    volumes:
+      - poker-postgres:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U poker -d poker"]
+      interval: 3s
+      timeout: 3s
+      retries: 15
+    restart: unless-stopped
+volumes:
+  poker-postgres:
